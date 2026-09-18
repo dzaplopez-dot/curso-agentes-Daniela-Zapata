@@ -1,0 +1,201 @@
+conversation_id,restaurante,zona,fecha_hora,personas,seating,estado
+dlg-91674224-c8a0-4c12-8756-dd1237870c42,Iyesare,4th Street in Berkeley,7 p.m | Noon | noon,Four,table | sit at the bar | a table,aceptado
+dlg-4697818d-5ec8-430a-9e51-c644ca3b5ae9,Prime | Prime near you.,Lehigh Valley | a little farther away,"7:00 pm | 7:00, | 7:00",two,pendiente,rechazado
+dlg-b1c2cd7f-3595-411d-8f2e-ae2715d8e69c,Mocha house | Raptis | Mocha House,pendiente,5pm,two,table | by the fire pit inside | inside,pendiente
+dlg-153bb3f7-1832-482f-bebf-426e89fcb7d6,La Tavola | Babette's Cafe | La Grotta Ristorante Italiano,pendiente,Saturday evening | Saturday at 8PM | 8PM,2,outdoor patio | outdoor seating | outdoor,rechazado
+dlg-20e30538-a316-413e-bba6-e8f803b4cd3d,Surf Rider Chesapeake | Park Lane Tavern | Surf Rider,in Virginia Beach | Virginia Beach,tomorrow at 7pm | 7pm | Wednesday for 7pm,5,indoor and outdoor seating | indoor | outdoor,rechazado
+dlg-ef65453d-423f-41f9-baf3-8e31ba8c8203,P.F. Chang' | P.F. Chang's | Mamacita's,Topeka,6:00pm,one other,booth | booths | outside,rechazado
+dlg-29f91ff7-6e62-40fd-a6c1-f9add279498b,Thai Orchid Restaurant. | Thai Orchid Restaurant,"Salem, Oregon",Saturday | 6 pm | 7 o'clock,Four,pendiente,rechazado
+dlg-a4484e9b-65f5-4850-8c8e-561bb0a32a7f,nobu | Del Friscos | Del Frisco's,"Dallas | Dallas at the location address of 400 Crescent Ct, Dallas, TX 7520. | 400 Crescent Ct, Dallas, TX 7520",7 pm | 7 pm. | 7:50 pm,3,pendiente,aceptado
+dlg-ff90869d-ada4-49d0-909f-ae1e79d76b68,take Sharon | Council Oak | The Rez,Tampa,8;30 | 8:30,two,pendiente,pendiente
+dlg-1a0e2354-94bf-496e-b811-d86c55a1b7d9,Osaka | Koba | Osaka.,zip code | 78711 | zipcode,noon,6,table | Indoor | outdoor,aceptado
+dlg-e090ec75-9451-4afd-afd0-d4fcf71658af,Tres Hermanas | Kru | Tres Hermanas.,"Sacramento, California",7PM | 7PM. | 8PM,three,pendiente,aceptado
+dlg-63b726da-f2ae-4820-9c0a-2aeaf75277a5,Tap House Grill | Prohibition Junction Sports Bar & Grill,E Washington Street | Station Drive,6 o' clock | 6 o' clock tonight | tonight at 6 o' clock,four,dining out | outside seating | table near the window,aceptado
+dlg-10f51578-c769-4dcb-9a67-d5eab42df02f,tsai Mei | Tsai Mei,Scottsdale | Scottsdale area,6:30pm,2,inside | outside | Inside,pendiente
+dlg-26ac7844-07da-4b1b-af66-cde95505765d,pendiente,Denver,8:30,two,Indoor | outdoor | Outdoor,pendiente
+dlg-c4051045-d0f4-4d3d-9516-c8629cb82398,Five Guys | El Pollo | Five guys,"Fresno, CA | on Shaw Avenue | Shaw Avenue",7pm | 6 pm | 8 pm,4,dining room separate | table,rechazado
+dlg-bcd32d61-030f-4788-adc5-c4752d7b3ad2,Red Lobster. | Red Lobster | Smith's Fish,"Roosevelt Blvd. option in Philadelphia, PA. | Philadelphia, PA | Philadelphia",tomorrow night at 7:00PM | 7:00PM. | tomorrow night at 7:00 PM,3,outdoor seating | outdoor | indoor seating.,aceptado
+dlg-20909f50-043e-400f-aee7-8f5243e16254,Jak's restaurant | Fin's Bistro,Issaquah,Friday at 7pm | 7pm,two,outdoor patio | patio seating | bar area,aceptado
+dlg-6e83b123-091d-4927-b624-7c8411358c48,Oak Steakhouse | Hall's Chophouse | Hall's,"downtown, on the peninsula",7:30 PM | 8:30 PM,2,booth,aceptado
+dlg-28779936-d64a-45ee-9362-5f0ebc7d209d,Wooden Nickel,"Millersburg, Pennsylvania | Millersburg, Penssylvania",around 6pm | 6pm | 7:15pm,Just one,bar | table | booth,rechazado
+dlg-f5828e9f-fdf0-4abe-bd35-104dcb6d3c34,obon sushi,tucson,5pm | 6pm,5,Inside | outside | inside,rechazado
+dlg-c08e27ea-ae7c-4596-a447-ebe9ecc7974b,Carabba's,pendiente,"6PM | pm, | 5",two,outdoor | outdoor table,aceptado
+dlg-1a4097f1-a475-4eeb-b25a-fc1690502984,Depot on Main | the Depot on Main,"275 North Main St in Corbin, Kentucky",8pm | 9pm,two,booth,pendiente
+dlg-fa569a6b-5db9-4f07-ae32-78da6c05512c,Chicago Cut steakhouse,Chicago | Chicago area,6:00 pm | 7:00 pm | 7:30,4,patio seating | table be near the window inside | the window inside,rechazado
+dlg-36f92380-b7c4-43bc-aa52-a05c4badaff1,bon apetit | legtoni,philadelphia | 123 north westin,7 pm | 7 | 7 tonight,two,pendiente,pendiente
+dlg-679a7d6a-12ca-4d2b-903c-81c72e0a6d9a,Primanti | Keglers,pendiente,6 pm | 8 pm,5,booth | 5,rechazado
+dlg-1b47bb2b-61b1-46b2-879a-719e939cf2f5,Cocina Mexicana | Italiano Ferragamo,Torrance | on 6th Avenue | 6th Avenue,8 pm | 6:30 pm | after 8 pm,two,table | booth | bar seats,aceptado
+dlg-fdb76467-33a0-45d0-bb63-27dc7ca9803b,Au Cheval | Alinea,"Chicago | Chicago, Illinois",7:30 pm | 7:00 pm | 7 pm,two,inside | outside | bar seating,rechazado
+dlg-b3277094-950f-4569-a178-4e3b1397d589,Brennan's,near me. | not too far from you,tonight | 6 | 6:30,2,inside | outside | Inside,pendiente
+dlg-15d4c474-41c3-41cb-8376-e1b32e68e335,Ricky's | Able's,Bronx | Manhattan,Tonight at 8 pm | tonight at 8 pm,Three,pendiente,pendiente
+dlg-6677f5f7-05cc-4469-b0b3-ea1d6064bdbe,Augistino's,Augistino's South | South | Augistino's downtown,8:00 | 7:00 | 9:00,four,pendiente,rechazado
+dlg-1499d828-0fca-4c4b-8221-a75cfe889c11,The Marine Room | Marine Room | George's,La Jolla,7pm | 9pm | 6:30pm,2,ocean views | indoor | indoor seating,rechazado
+dlg-f7cd912c-663c-4dbb-bee8-027ecf498011,Koto steakhouse | Ichibon's | Koto,at the mall | the mall | down the road,tonight | 6:00 PM | earlier than 6:00,two,private grills | with other families | with another family,aceptado
+dlg-3aefd228-8123-4607-aa32-0dfa5eb22823,Belotti | Bellanico | Betotti,Oakland | Oakland.,7PM | 7:30 | 7:30pm,four,away from the door,rechazado
+dlg-839749a1-4868-455a-a6b2-0706fdee2dd7,Canlis,2576 Aurora Ave,7 pm,2,outdoor,aceptado
+dlg-bd1e4268-7e42-4cb3-9562-38f99fc68efb,Romanacci | Vazzy's,Trumbull | Shelton,Saturday March 23rd at 7:30pm | 7:30pm | 8pm,pendiente,outdoor seating,rechazado
+dlg-4156330a-4540-49ea-8263-94935e4ca15a,The Chummy Clam | Chummy Clam,pendiente,5:00,Three,quiet table | booth | quiet,aceptado
+dlg-f18035c1-d86d-4e1f-a0f2-b00526de73c2,Tacos A Go Go | Cyclone | Saint Daine's,pendiente,5:30 | 5:30. | 5:30pm,4,outside | outside seating | indoor,rechazado
+dlg-342048d7-1ee1-4d01-b38a-19457a4ecdf8,Ruth's Chris Steakhouse | Stonewalls | Ruth's Chris,pendiente,Saturday at 6:00 pm | 6:00 pm | 4:00 pm,4,Inside table | inside table | patio tables,rechazado
+dlg-fbc73af6-bc14-4fc2-9224-3eee2250380b,Mahogany Prime Steakhouse | Johnny's Italian Steakhouse | Johnny's,pendiente,6 pm,2,booth | tables | chairs,rechazado
+dlg-8bab9c8f-fb5e-4eae-ab37-535beeac33a9,Zelo | Tavola | Tavelo's,in downtown Minneapolis | downtown Minneapolis,9 PM,2,pendiente,aceptado
+dlg-f8856ffa-19d8-4de3-91a9-6229143168ff,Primos | Table 100 | Table 100.,pendiente,1:00 pm | 1:00 pm today. | 1:00 pm today,four,table | one high chair,rechazado
+dlg-52560baf-e57a-4584-9978-290d1c151597,pendiente,pendiente,7:30pm | 7:30 | two,4,table | patio | entire patio,rechazado
+dlg-2d61848d-c59c-4dcd-b503-de95c874cda1,benihana | cattlemans | cattleman's,citrus heights | citrus heights correct?,7pm | 7pm to | time,three,outside table,rechazado
+dlg-fefd46e1-93c7-4f44-a318-e291d92ca94b,olive garden | Olive Garden,"Bridgeton, Missouri | at the Bridgeton location | Bridgeton",6:30pm | booth | 6:00pm,5,Table | booth | Booth,aceptado
+dlg-54ccc520-5049-4651-8cf0-b6fb50a8d732,Outback Steakhouse | Friday's,pendiente,7 pm | 7:30 | 8 pm,5,pendiente,aceptado
+dlg-a7b98394-8d76-4a93-8113-0070b106187c,Dixie's Soul BBQ,pendiente,Tonight at 8pm | 8pm | tonight at 8pm,2,pendiente,aceptado
+dlg-2baace00-4cc4-44f2-be7b-9640127438c6,Ferraros | Charles' Kitchen | Charles's Kitchen,pendiente,7 pm | tomorrow night at 7 pm,4,indoor | outdoor | Outdoor,rechazado
+dlg-f3d16542-2acc-493c-8fb0-f6db89df36ac,Sarma | Cafe du Pays,Boston | Cambridge,5pm | 6:30pm | 6:30,two,table | bar | Table,rechazado
+dlg-1be4f986-0651-4938-bce2-61cf26fead57,Menton | Trade,Trade | Boston | 540 Atlantic Ave in Boston,tonight | two | 8 PM,two,table | indoor | outdoor,aceptado
+dlg-f9f3f22a-4841-4964-8507-740b764cf5f9,Yabbi Hut | Yabbi hut | Katsu Sushi,pendiente,8pm tonight | 8pm | 7pm,three,table | tables | 7pm,aceptado
+dlg-1ab17b1f-9495-4e21-a286-e2884def112e,Foreign Cinema | Loló | Urban Putt,"The Mission district in San Francisco | The Mission | 2534 Mission St Mission, cross street 22nd St",tonight | 6pm | 10pm,two,table,pendiente
+dlg-5e324a72-8d1c-4ff9-aaae-a4a11a64bf75,Adriatico's | Murphy's,"Columbus, Ohio | Columbus, Ohio.",7:30PM | 8PM | 8:30PM,6,outdoor | inside | outside,rechazado
+dlg-dd33dc94-534a-4db4-b19a-d23fa0eb2a9a,Jose's | Mexico Lindo | Jose's Mexican Restaurant,5 miles away | 2 miles away | Spring Lake,8pm | 7:30pm | 7:30,2,booth,rechazado
+dlg-edc2d433-7bb7-4271-ad44-b0938b157b56,Maggiano's | John,metro Atlanta,7:30 | 9:00 | 9,two,booth | booths | tables,rechazado
+dlg-c1c12dee-c5d8-457d-8db1-fef557827ba0,Buddakan | Pod,Philadelphia | Pod in University City | University City,night at 8pm | 8pm | 5 pm,2,upstairs section,aceptado
+dlg-8e1ff2f2-9736-48d0-b9fa-8c4060c1e007,Dinosaur BBQ | Sticky Lips | Beale Street,"Rochester, NY | 99 Court St. Rochester NY 14604",9pm | 8pm | 8,3,booth inside,rechazado
+dlg-d12d8c79-a5ba-4d82-a854-16dc271eb4ec,Grill 225 | Chophouse,Charleston,7 | 8 | 8 PM,4,table | booth | A booth,aceptado
+dlg-cbffc8ed-967d-4971-b816-4434b5f346fa,Fleming's | Ruth's Chris,right around the DC area,7 | 10 pm | 10 pm.,five,pendiente,pendiente
+dlg-a1b95a4d-c15f-4af1-afb4-a7361dc2ff35,Axton's restaurant | Pazza | Luca,Franklin Lakes | Oakland,7pm | 6pm | 8:30pm,6,booster seat | high chair | table near the bathroom,rechazado
+dlg-86c4abf7-3c4f-438f-84d2-f6cf651deb6d,Ristorante Brissago | Rao's Hollywood,Los Angeles,8 pm,Just one,booths | outdoor | outdoor dining,rechazado
+dlg-7122814a-0ef5-44f0-b561-4f5741273804,the dock | dock | the riverwalk,Naples florida,8 pm | 9pm | 8pm,4,by the water | outdoors | on the water,pendiente
+dlg-522957de-5d8c-4b5e-8be6-970d45249dbd,Julia's Shtamtisch | The Blue pearl | The Blue Pearl,1600 Broad River road | Broad river road,6pm | 6 pm,6,table | outside | outside on the Terrace,pendiente
+dlg-701c51d5-7b5e-46f9-8ec8-e6d83d833ff9,jamesons steakhouse | cheesecake factory,pendiente,6pm | 630 | 7,6,outdoor | inside | by the fireplace,pendiente
+dlg-246b9027-c0c8-4c54-98b4-51122d154c6f,The Driskill Grill | Eden East,pendiente,around 6pm | 6pm | 6pm.,4,outside seating | outside | outside patio,rechazado
+dlg-fcb0eaa6-b4e4-4f06-8697-5738c2045eea,Cornbread Cafe,Eugene,11am | 2pm | 5pm,pendiente,pendiente,pendiente
+dlg-86c53295-c655-4706-9adf-5aff75f01f5c,nobu | del friscos | l friscos i,Dallas | dallas | llas f,7 pm | 20 mins late,pendiente,pendiente,rechazado
+dlg-eb105e50-1731-405f-a84a-c9fab340ef3c,Ruth Chris | Harry's | patio,pendiente,8 | 8 pm,4,outside table | the patio,rechazado
+dlg-dcac6d0b-dd94-4a98-acac-644285984414,Carrabba's | Carrabbas,Sunset Blvd,8 pm | 8pm | 7,Seven,outdoor booths | booths | indoor booths,rechazado
+dlg-9ac8ca25-972c-44a4-a5bf-0ccbc820798f,pendiente,Maryland | maryland,31st of january 7pm | 7pm,2,pendiente,pendiente
+dlg-cab24d2a-c837-4ee4-8370-27f97aba1673,Bern's Steakhouse | Charley's Steakhouse | Bern's.,Tampa | Howard Avenue | Cypress St,7:00 | 7:00 tomorrow | 8:00,My husband and I,on the water | outdoor,rechazado
+dlg-82c95f79-a100-4259-8cff-42a13ff7e3b2,28 Springs | Shogun,pendiente,March 2nd at 6 o'clock | 6 o'clock | 7:30,two,Table | at the bar | table,aceptado
+dlg-210e230b-de16-45e8-a1f9-8577732c8ba1,pendiente,pendiente,7pm | 5pm | 8pm,4,near a window | near the window | indoors,rechazado
+dlg-e25f0c15-ab82-4cfd-bc11-7f7196f44c75,Drago | Chaya,Los Angeles | Greater Los Angeles,6:30 | 7:00 | 7,4,booths by the corner window | bars | tables,rechazado
+dlg-4cf76b20-1ee7-474b-9b76-8655f61134bd,Rick Erwin's West End Grill | Soby's,pendiente,Friday at 7 PM | Friday at 7 PM. | 7 PM Friday,2,pendiente,rechazado
+dlg-99858c19-68aa-410c-b120-b16134ea5c61,Mortons | Ruths Chris,pendiente,5pm | 9pm,4,pendiente,pendiente
+dlg-471699c1-27d9-4bc5-b50a-1523a1e90273,Settebello | Grappolo | Napolitano Pizzeria,Oxnard,6 | 6-6:30 | 6:30,four,pendiente,aceptado
+dlg-dab0b16b-c1a8-42a9-ab01-e64cff1a87df,Bucca di Beppo | Olive Garden,"Los Angeles, CA | Los Angeles",7 PM | 7PM. | 7PM,Two,pendiente,rechazado
+dlg-be2ca972-e8b3-4c97-ae8b-6a149fea9af0,Pismo's | Tandoori Night,pendiente,7pm | 7:30 pm | 7:30,Two,table | inside | outside,rechazado
+dlg-11b7e92d-9c00-4568-b9b6-869e48b7801d,El Cholo | Rockin’ Baja Lobster Coastal Cantina,Newport Beach,Friday night | 7pm | 8pm,two,table | outside | tables,rechazado
+dlg-21e25f70-9957-440a-a66a-f3c5ce50152d,Olive Garden | Carrabba's,"Orlando, Florida | Orlando, Florida,",8pm | 8 | 9pm,3,indoor | outdoor | table,aceptado
+dlg-f7f7e72e-4618-4184-81d4-6d71951406be,tokui tei | yohei,pendiente,6 o'clock | six | 5:30,2,pendiente,rechazado
+dlg-fc57cedd-438c-4922-944c-808bbceaed84,Ruth Chris | Del Friscos | Del Frisco's,United States | Southpark side of Charlotte,7:00 pm | 4:45 pm | 9:00 pm,two,pendiente,rechazado
+dlg-8db9569e-190c-45d1-bea6-eece3536542e,pendiente,pendiente,5pm | 5 pm | 6,2,indoor | outdoor | Indoor,rechazado
+dlg-9900f852-cdc2-404c-89fe-5075d2f17fc6,Paisano's Italian restaurant | Joe's Mexican restaurant,riverwalk,Thursday at 5:30 p.m | 5:30 p.m,3,high-chair | outdoor | outdoor seating,rechazado
+dlg-9c3e3047-6e9b-445c-acf9-db8e76cada61,Urban Hot Pot | Korean Dynasty | Hot Pot and Grill,"Downtown Baltimore, MD",7:00pm | 7:15pm,1,pendiente,rechazado
+dlg-dd6e8cc2-8ee0-432f-9e6c-d54b782b7935,Sushi Masa | Tokyo Live Sushi,pendiente,"Sunday, 3/24/2019 at noon | noon | Sunday, 3/24/19 at noon",6,pendiente,rechazado
+dlg-fe579ab0-2ade-44de-bfb7-116098473232,White Oaks | Outback Steakhouse,pendiente,Friday night at 8pm | 8pm | night,two,table | booth,aceptado
+dlg-cdb4e29d-a4be-47b7-b88c-698a961f4014,Greek | Greek Fiesta | veranda,pendiente,night | 6pm,just you and John,booth | booths | outdoor,aceptado
+dlg-1febaef7-9070-4954-af3b-b8f1a8a0b614,sushi bar,pendiente,6pm | 8:30pm | 8:30,4,tables,rechazado
+dlg-29f3955a-b6c7-4b05-a4c7-52258ba69554,Commander's Palace | Restaurant Revolution,pendiente,8pm | 7PM | 8PM,two,8PM,rechazado
+dlg-7c1eeb69-ee30-4920-aadb-1334e875cc23,bertollis | olive garden | Marzillis,pendiente,7pm | . 7pm | 730pm,6,pendiente,rechazado
+dlg-d484e0ee-79b8-4674-83c7-6b4c7aae3b82,China Garden | Happy Dining,Jeffery Road | Baranca,tonight,four,table | high chair | outside,rechazado
+dlg-1df7fc9b-69df-4abb-984d-0d3656f5d59c,Cafe China | Wo Hop | Mission Chinese Food,New York City,7:30 | 7:30 pm | 7:30 p,Four,pendiente,aceptado
+dlg-1b16077f-87d0-4843-87a2-7722578f5771,Providence | Patina,LA,tonight | 7pm | 545pm,six,pendiente,rechazado
+dlg-8bf28458-873f-4bff-9c79-dbf8483523cc,Aruba's,Fort Lauderdale | Fort Lauderdale area | East side of A1A and are located directly on the beach,"Friday, March 1st at 7:00 PM | 8:00 | Friday March 1st, at 8PM",my sister will be in town with her two kids,bar | table outside | outside,rechazado
+dlg-fde256d5-a2c3-418d-86fe-6cb9d86ccef5,Gourmet Pizza Servers INC,3rd | 10th street locations | Middletown,Noon | 1 | 2,8,buffet,rechazado
+dlg-c92da4f0-14ed-4b97-986c-2dd81808760d,Sequoia Brew & Pub,pendiente,8:00PM | 8:30PM,Four,patio | sitting inside | inside,rechazado
+dlg-81a9bcdf-1e8d-445a-a7d4-b4c1a46b546d,Oleana | Craigie,Cambridge Massachusetts | Cambridge | Main,next Friday | next Friday at 7 p.m. | 7 p.m,two,pendiente,rechazado
+dlg-adf17011-30d3-4875-a902-f08c5c4bdf23,Waffle House | IHOP | Village Inn,"In Phoenix, AZ | Phoenix, AZ | 3 fake street",9:30 | 9:30pm | 11:30,4,booth | table,rechazado
+dlg-9b759f3e-5fb4-46f0-9c88-9d14e0c23465,Artusi Italian | Artusi Italian restaurant | Italian restaurant,pendiente,8 pm,Five,high chair,rechazado
+dlg-0c6174f5-9016-4c39-b77e-439df21e608a,Fish Cafe | The Crab Catcher | Crab Catcher,pendiente,April 25th | 6pm | April 30th,4,outside | outdoor | outdoor seating,rechazado
+dlg-cfabc722-01b5-4ccb-a59a-3eebcba7f68e,Gaucho Parilla,Pittsburgh | Strip District,6:30 | 6:45 | 6:45pm,Two,"Inside | Inside please, and not a high top | high top",rechazado
+dlg-9ed8b811-bf55-488a-bbac-33d476126139,Eatalia,in El Segundo | El Segundo,7 pm,Four,a table by the fountain | tables | by the fountain,aceptado
+dlg-4e6318d6-eaa4-47b6-aedf-e7276106b7d4,Mickey & Mooch,"Hickory, NC","Next friday at 8pm, | 8pm | 9pm",Two,inside,rechazado
+dlg-3393df32-6c63-4569-b0f6-3e2f8e19852e,Thai Market | Awang Kitchen,New York City | closest to my office | 40th Street and 5th Avenue in New York,"7 pm on March 1, 2019 | 8 pm on March 1, 2019",2,indoors,aceptado
+dlg-dc82c067-57ab-482a-a65f-6c56f13e19a7,Sake House | 6 | Korean Grill,"Largo | 313 Icot Blvd, Largo 33771 | Pinellas Park",Friday | 8pm,6,pendiente,rechazado
+dlg-1a2a05c0-c916-49ec-a843-753c28a55765,Locanda Verde | Tribeca Grill,pendiente,2pm | 3 | 5,3,table,rechazado
+dlg-6551f802-6fc2-4a4a-8b8d-f7bf7c3aefc6,pendiente,pendiente,7:00 this evening | 7:00 | 7:30,2,indoor | indoor table near the bar | patio,rechazado
+dlg-82b1f8d7-ae02-49f4-b616-1b89d85b67b5,pendiente,pendiente,pendiente,pendiente,pendiente,pendiente
+dlg-390c9e33-8524-4c61-81b9-e78a512c7553,Sorrentino's,pendiente,7pm | 8pm,6,indoor | outdoor | outdoors,pendiente
+dlg-7121d9d3-98f1-4649-ac5e-7ce8732bd302,Texas Roadhouse | Annie Gunn's,pendiente,tomorrow night the 28th of March | 7 pm | 8 pm,two,pendiente,rechazado
+dlg-b3ef851c-557c-46da-b924-71636e34f677,pendiente,pendiente,pendiente,pendiente,pendiente,pendiente
+dlg-afd3324d-c9be-4b1c-b2ff-e4589cca8c62,The Whale | Thistle Lodge Beachfront Restaurant,Fort Myers Beach,7pm | 6pm | 8pm,4,waterfront dining | view of the water,rechazado
+dlg-243ccdcf-c892-4265-bf21-cb85741562aa,Scotti's downtown | Cock and Bull,Mainstrasse,before 8PM | 8PM | 9PM,2,booth | booth. | dining area in a booth,rechazado
+dlg-4d9d8a2b-4e6d-4923-b8a5-bc8fd4037286,"The Bombay Frankie Compan | The Bombay Frankie Company | he Bombay Frankie Company,",pendiente,8pm | 9pm | 9:45,8,outdoor space | patio | outdoo,rechazado
+dlg-b4f152bf-5c54-4592-b882-0b411093753f,Cava | Carbones | Carbone's,Southington CT area | Southington CT area. | Southington,Saturday the 26th at 7 PM | 7 PM | 8 PM,two,outside | patio | rooftop patio,aceptado
+dlg-f4c5b471-575d-435f-82e6-5e57e6b6b66e,Limoncello | Neptune's Oyster,North End of Boston,7pm | 7:30pm,2,inside | outside | inside table,rechazado
+dlg-7f32699c-fa68-4fa0-9309-4d065f695833,Hill Country BBQ | DC City Smokehouse | Hill Country,"Washington, DC",7pm | 730 pm,4,pendiente,rechazado
+dlg-3d4daf17-fdac-4a1b-959b-371d62811d74,Conners Steak And Seafood | steakhouse | Texas de Brazil,Huntsville,Saturday night at 10 pm | 10 pm,pendiente,pendiente,pendiente
+dlg-c28faa9f-14d3-4bcf-a6f6-55b9c068be94,Millenium | Saha | Julia's,College Avenue,7:00 | 7:00 sharp | 7:30,One,pendiente,rechazado
+dlg-f4e1da6a-deb7-4a57-82d2-6b82ffcef88d,Truluck restaurant | Capital Grille,pendiente,pendiente,two,pendiente,rechazado
+dlg-7f32f698-391c-4c78-8abe-51aa0deab3be,House of Chen | Jimmy Wan's,pendiente,7 p.m | 7 p.m. | 7:30 p.m,four,outside,aceptado
+dlg-bb078461-679e-4a5e-8ba3-0ab63cc7e557,Gratzi | Ruths Chris | Ruth's Chris,South Main,7 o'clock | 8:15 | 7 pm,4,booth | booths | balcony,rechazado
+dlg-9f90283a-1186-42c7-a616-b9169b1ae7b9,The Old Goat | the Old Goat,Grand Rapids,8:00,pendiente,"Inside | Inside, booths | booths",aceptado
+dlg-ab201d0b-e8a8-4482-beea-5ebd977a6afc,new Outback | Outback | Long Horn Steakhouse,Wooster,Tomorrow evening at 7pm | 7 pm | tomorrow evening at 4 pm,4,booth | high chair,rechazado
+dlg-6ae6610e-e804-4261-8564-bbc6ee6f2aa3,Denny's Grill | Ramones,pendiente,3 p.m. | 3:30 p.m. | 2:45 p.m,Three,booth | booths | outside seating,aceptado
+dlg-469dbd2d-f173-4be3-972d-6688285e703a,Dragon Palace | China Bamboo | China Bamboo.,"Phoenix, Arizona | close to my house on 44th Street | 44th Street.","7:30 p.m., | 7:30 p.m., tonight | 8:00 p.m",four,booth | table,rechazado
+dlg-25752e43-3ce3-44e7-8b45-54c463f7a499,JJ Astor | Sara's Table,8th Street | 8th Street.,JJ Astor | 6pm | 6,five,outside | patio,rechazado
+dlg-50efa440-4b26-4671-8e05-6c2d26422e05,Applebee's | Chili's | Chili's on Jefferson street,Main Street | Jefferson street | Jefferson Street,6:00 pm | 7:00 pm,4,table | outdoor seating | outdoor table,rechazado
+dlg-6b2cddcb-5155-422c-8025-b255e89af03b,Le Papillon | Massimo's,pendiente,6:00 PM | 6:00 | 7:00 PM,four,pendiente,rechazado
+dlg-6b825a39-1c7b-4452-b468-39335a7c9ee5,Burger King | wendys,pendiente,5pm | 6pm,Three,table,aceptado
+dlg-06210079-42cd-4fd7-8636-06f261272854,Akiko's | The Progress,San Francisco,8:30 | tonight at 8:30,2,pendiente,rechazado
+dlg-d8815bcf-794b-40f3-84e0-cb01bc67e18b,black bear,oakland,7pm | 8pm,4,outdoor | indoor,rechazado
+dlg-52a588d5-0930-41ab-b393-ee4218cbbd5c,Olive Garden,pendiente,7pm | 7:30,Two,booth by the window | table by the window | booth,rechazado
+dlg-7816130d-6037-43c7-9045-b92556bc3f4c,Briejo,west Harriston | west Harrison,3:30 pm,four,booths,pendiente
+dlg-81047039-23db-4360-b4ac-deead2821a38,Lau Malnatia | Lau Malnatia restaurant | Lou MAlnatia restaurant,Wheeling | Wheeling area,7.30PM | 8.30PM | 8.30,3,pendiente,rechazado
+dlg-0312238e-1581-4889-bf53-a240acd073d8,steak or crab cake restaurant | The C House | C House,downtown,9 pm | 8 pm | Fred.,two,patio | inside | outside,rechazado
+dlg-426a8d4c-2c1c-454f-9f27-4e9a68ea6cf9,Kelly's | MiMi's,Close to Huntingdon | Huntingdon,6 P.M | 7:30 | 7:30 P.M,five,formal dining room | dining room,rechazado
+dlg-ef0ee70f-42ba-4754-bb82-9155dc0035e9,The Red Barn,Forth Street,evening | before sunset | 7 pm,two,table | booth,rechazado
+dlg-a64ceb42-6e53-4757-826c-425fdfd8f707,Fogo de Cho | Bones | Bones in Atlanta,"Atlanta | Atlanta, GA | GA",7 p.m. | 7 p.m | 7p.m.,two,able,rechazado
+dlg-fa74a999-f59c-42d0-8daa-e2e3c804c809,Harry's | Metro Diner,Gainesville | Gainesville area,November 5th at 7:30. | November 5th at 7:30,six,patio seating | indoor | outdoor,pendiente
+dlg-8f8b42a0-b2bc-49cc-89b2-e98f2c8d6c9c,Sushi Blue | Sushi Blue downtown | Grey Whale Sushi,pendiente,"6:30 | 6:30, | 7:00",42,high chair,rechazado
+dlg-37e4dd73-6efe-4166-b7c3-b6ce80841cc6,The Pink Door | Orfeo,downtown Sacramento,6pm | 7pm | 7,Nine,tables | table | not a booth,rechazado
+dlg-e4359afc-cfbb-44a7-897a-6b5949c7e301,Olive Garden | BJ's | BJ's restaurant,Montebello,tomorrow at 7:00 PM | 7pm | 7:30 PM,3,high chair | high chair for kids | High chair,rechazado
+dlg-182aa4bb-10b8-42f9-89a5-6758c131ba9c,Cracked Pepper | Max's Bistro | Max's,Fresno,7pm | 7 pm,7,inside | patio | outside,aceptado
+dlg-cdcd1bc2-f457-406f-888f-d4e049b5ead0,nobu | Del Friscos | Nobu Dallas,"Dallas | 400 Crescent Ct, Dallas, TX 7520",7 pm | 7:20 pm | 7:00 pm,3,pendiente,rechazado
+dlg-f850d507-3c3f-47bb-8acc-a325b810bb50,L'Etienne | The Georgia Center,pendiente,5pm | 6pm | 4pm,15,pendiente,rechazado
+dlg-b0b5a5b2-b221-48f2-b7b4-1a93cc801728,Giannis | Andrews,pendiente,7:30 | 7:00,4,patio | inside,rechazado
+dlg-b40433fe-946d-40b2-9541-b704dc28f832,"Timber Kitchen & Bar | Timber Kitchen & Bar, | The Fiddlehead Restaurant",Bangor | Downtown Bangor next to the Cross Center and 395 | Directly across from the Cross Center by Main Street in Downtown Bangor,7:30 pm,pendiente,"window booths | fireside seating | fireside seating,",rechazado
+dlg-b498d9b3-16fc-40e6-b8b4-5869bfa80eb6,Brixx Pizza | Brixx Pizza. | Anna's Pizza,pendiente,7pm,Just me and Joe,table on the verandah | verandah | booth,rechazado
+dlg-b141d62e-725c-41ff-89e1-1599e69a1a43,Thaiphoon | Thai Fresh,broadway,7:00 | 8:00,2,garden area | on the balcony,aceptado
+dlg-2d88ac06-b845-4a6a-a9ca-423ca40f09c9,Happy Hippo | the Happy Hippo | The Happy Hippo,pendiente,Tonight at 7pm | 7pm,Four,table | table in an exclusive private room | exclusive private room,aceptado
+dlg-d7064019-66ad-4065-a641-10239a307458,La Stalla | Americana,pendiente,7:30 | 7:30 tonight | 8:30,two,outside | outside table,rechazado
+dlg-b4e2ea3c-2b4b-4331-9e0e-5ec9ba44f24e,Eclipse Bistro | Iron Hill Brewery & Restaurant | Iron Hill,near me | Wilmington Deleware,7:30 | 4:00PM | 7:30 PM,two,pendiente,rechazado
+dlg-1bb17a53-e78c-4233-a9a6-bfef17706b22,Standard at Smith house | Morton's | Standard,down town Nashville,6 pm | 7:15 pm | 7:15,4,courtyard | dining room? | dining room,rechazado
+dlg-561ccd4e-3d32-4c30-bc95-61015865b467,MJs,chicago,6 | 7,3,pendiente,rechazado
+dlg-1f4dbb29-88ae-4b1b-a6ad-16e69102417f,Chili's | Outback Steakhouse,pendiente,Friday at 6 PM | 6 PM | Friday at 8 PM,"Me, my wife, and my son",high chair,rechazado
+dlg-5fb55678-96fd-4617-b62e-00646378ae94,Olive Garden | Ciao Bella,pendiente,7pm | 5pm | 9:30pm,two people,7pm | booth table | indoors,rechazado
+dlg-c61f867d-4a97-4bd7-b86a-4e08d83a6557,Gotham Bar and Grill,New York New York | New York,6:30 pm | 8:30pm | tonight,5,seat that overlooks the river | Skyline view,rechazado
+dlg-4c9a0e5f-8da3-4298-aec6-261ef193d072,Kotos | China Kong | Grow Green,Birmingham,12pm | 11:30,One,pendiente,rechazado
+dlg-30142c2c-ba0c-46e8-be6c-b5aff5d1ab2b,Maize,the location on University | Green Street | The University location,7 pm | 7 | 7.,two,outdoor,aceptado
+dlg-1786c786-b59c-46c8-a776-3e6722a3b9f6,Maggiano's Italian Restaurant | Tiago's Mexican Restaurant | Tiago's,pendiente,Tomorrow at 6pm | 6pm | 8:00pm,Three,booth | booths,rechazado
+dlg-2d3414c1-eb2a-44de-8dc5-3b42b0a5a84e,Pavilion | Texas Roadhouse,pendiente,tonight at 6 pm | tonight | 7 pm,20,tables,aceptado
+dlg-00055f4e-4a46-48bf-8d99-4e477663eb23,Thursday Kitche | Boka,"Southern NYC, maybe the East Village | Southern NYC",7 pm | 7 pm. | 5,8,"table | at the bar,",rechazado
+dlg-fa7a56c7-5287-4351-9a43-5ed8b6122ccf,Estrellita Poblana | Azul Tequila | al fresco,pendiente,February 13th at 5 PM | February 13th at 5 PM. | 5 PM on February 13th,"Lisa, Me, you, and Terry",booths | booth | near the windows,pendiente
+dlg-efaaefa3-6da4-46b9-a677-cb92cdffa4cc,San Tung restaurant | Jajang restaurant | San tung,pendiente,6pm | 5pm | 7pm,2,high chair,rechazado
+dlg-2cbdf985-cbdf-473e-8b42-95a2429917dc,Arches,Los Angeles | Newport Beach,"Friday, March 1 | 7:30 | 8:00",four,indoor | patio | Indoor,rechazado
+dlg-a2238e55-c8a2-4bd8-a82b-1109e3d548df,Marea | Carmine's. | Carmine's,"Manhattan | across the street from Central Park, on the south side | another Italian place",11 | 9 | 10,four,booth | inside,pendiente
+dlg-0d06065d-d6b9-476e-86ac-dce69d0119b7,Canlis | Art of the Table,pendiente,tonight | 7:30 pm | 10pm,4,lounge | main dining | main dining room,rechazado
+dlg-209856e2-3ec2-464c-bbc5-f6013d138ebb,Coopers | Doc Macgrogans' | Doc Macgrogans'.,Montage | Scranton's | down in Pittson,tomorrow night at 8 | 8 | 9 oclock,two,pendiente,rechazado
+dlg-5f4790c1-4885-40b7-811e-41f9fc3b36de,Outside Inn | Beverly's,pendiente,WED. March 27th | 6:30 PM | 7:30,4,Outside | Outside seating | outside,rechazado
+dlg-a9a0209a-2a5c-4a28-9c0f-44f77e4c2993,Iaria's | Capri,Indy | downtown | north side of the city,7:00PM | next Friday at 7:00PM | next Friday at 7:00,you and your husband,indoor | outdoor | outdoor seating,pendiente
+dlg-4495846e-6164-44c3-9028-531ad157c669,Nino's | Vincent's,pendiente,6pm | 6:30,Four people plus the baby,table | inside | booth,aceptado
+dlg-72cd7cac-8b3d-4bdf-8275-8a07da32391e,LB Steak | Sino,San Jose | Santana Row | LB Steak,Friday around 8 | around 8 | Friday at 8,two,indoor | outdoor | outdoor seating,rechazado
+dlg-9bb358ad-d82e-4f67-9c79-ec6c002ebd94,Samurai | teppan tables | Japanese Kitchen,"Tanque Verde, in Tucson, Arizona | Grant and Columbus, in Tucson, Arizona",eight p.m | eight p.m. | 8 p.m,two,teppan tables | Teppan tables | regular table,rechazado
+dlg-a241462a-278a-43a3-a87c-30386dd88d85,The Best Steakhouse,St. Louis | in St. Louis | I found a perfect s,6 o'clock | 7 pm | 8 pm,three,outdoor seating | outdoor table | no outdoor tables,rechazado
+dlg-d4c5181d-ddaf-4be4-a326-e2b2be926797,Sky Sushi | Yum Sushi,El Dorado Hills,8 pm,6,outside | outside seating,rechazado
+dlg-3669fdf1-16a7-402f-92f5-56d625db873a,Merlion Restaurant | The Flying Dutchman | the Merlion Restaurant,Kemah,7:00 PM | 5:00PM | 9:00PM,eight,Chef's table | the Chef's table,rechazado
+dlg-32e6eb55-e8a1-4c13-be9b-382eaadc758e,Olive Garden | Maggianos,pendiente,Around 6pm | 6pm,2,pendiente,rechazado
+dlg-d9f9858b-f8d9-48ed-9741-e0f64e0a5fd4,Nawab Indian Cuisine | The Peddler | Nawab,pendiente,6 o’clock,me and my wife,table | booth | booths,rechazado
+dlg-d15f0bf6-b686-475a-8130-463dc8e980b5,Maggiano's Little Italy | Avanti | Maggiano's,down town dallas | downtown dalls,6 PM | 6PM | 7 PM,six,inside | outside | outside seating,rechazado
+dlg-d660a900-5c09-4e65-84ea-de3bf968903c,Black cat,pendiente,7pm | 6pm,10,outdor | outdor sitting | indoor,rechazado
+dlg-d7d9f4a4-184d-4fd8-bb2c-6fa24b97c2a5,La Rang'e | La Grange | La Grang,La | Benton Harbor | Benton,"Monday, the 15th at Noon | Noon | 1pm",5,Most likely on the patio | patio | the Patio,rechazado
+dlg-8cd2e250-0ada-4b0b-ba58-786518dfc864,Parma Restaurant | Parma,pendiente,7:00PM | 8:00PM tonight | 8:30PM,Three plus me,sit outside | outside | outside seating,rechazado
+dlg-2682ad8c-9a5a-4bfd-84e5-827b2e70243a,Sea Watch | Morton's Steak House | Morton's,"6002 N Ocean Blvd, Fort Lauderdale, FL 33308 | the East side of A1A | East side of A1A",6:00 PM,8,long high top table | booth | seat inside,rechazado
+dlg-99e984e1-d4ac-4e9f-a0e5-064bc9379c4f,Ruth's Chris | the Melting Pot | Melting Pot,Minneapolis,April 7th at 7pm | 7pm | 8pm,two,pendiente,rechazado
+dlg-7a5a4659-7d58-4417-89d9-99eedea61d03,Casa Sensei | Monkitail,Miami,9:00pm | Tomorrow at 12:00pm | 12:00pm,8,9:00pm | Indoor | Outdoor,aceptado
+dlg-d601e9c1-f9b4-4778-ae20-29f5ab6edd72,crawling crab | crying tree,pendiente,tonight | 7:30 | 8:00 pm,3,table | table is outside | outside,aceptado
+dlg-4b45d6da-3b25-4d9c-8f5c-08fdea6cb10e,PABU Izakaya | Lolinda | PABU,pendiente,March 4th at 6:30 p.m | March 4th at 6:30 p.m.,2,outside | indoors | indoor table,rechazado
+dlg-e45ea9df-97f0-494f-a807-b846c22f8fc3,Maggiano's,Philadelphia | Center City Philadelphia,this saturday | 530 | 6,four,patio | dining | dining room,aceptado
+dlg-0c96d51f-e16f-4a11-88e0-85a9ac6e6df5,Arroyo Chop House | Ruth's Chris | Ruth's Chris Steakhouse,Pasadena,7:00pm | 6:30pm | 6:30,four,pendiente,rechazado
+dlg-5e0469c8-0968-40ad-8c22-6c118afaa781,Udapi | Tiffen,University Boulevard | Colesville Road,March 21 at 6 pm | 6 pm | 7 pm,four,outside seating,aceptado
+dlg-ec7955a7-caad-48cc-9048-3dd447e93a50,Origional Roadhouse Grill | Lucille's Smokehouse BBQ. | Lucille's Smokehouse BBQ,Lakewood,4pm | 1pm | 2pm,four,Booths | tables | indoors,pendiente
+dlg-436e0acc-4141-4214-a32b-8ea604e52e2e,pendiente,pendiente,pendiente,pendiente,pendiente,pendiente
+dlg-f2938176-61eb-42ab-b31c-026d96a97d9f,Giorgio on Pine | Audrey Claire | Giorgio's on Pine,Philadelphia | Audrey Claire,7:45 | 7:00,two,by the window | window table,rechazado
+dlg-0d533976-cbdb-4ca5-9616-15efd67d86bb,pendiente,Puerto Vallarta,7pm | 8pm | 6pm,7,table,aceptado
+dlg-866b2ed2-ef86-4694-8df5-6e41261b4efb,Left Bank | Left Bank restaurant,"120 N. George St. York, Pa",May 4th at 1:00pm | 1:00pm | 4:00 pm,14,indoor | indoor tables | indoor table seating,rechazado
+dlg-28e1433d-278f-4386-bdc2-9c10e4fd6987,Roma's Italian Bakery | The Tomato Palace | Tomato Palace,"downtown Grand Rapids | Ionia Street, downtown",6 pm | They hav | 7:30 pm,8,outdoor | outdoor seating | Outdoor,rechazado
+dlg-779188b3-2773-49ff-9855-de5db21f4bc2,Kyo Kara | Natsume's,Tampa | near the bay | something on the water,1AM | 10pm | 8PM,Five,booth | booths | tables,rechazado
+dlg-e5d4351d-d23a-46e3-b74d-d4ddfa072af1,Outback | Longhorn | Texas Roadhouse,pendiente,This evening at 7 pm. | 7 pm | 7pm,Four,indoor seating,aceptado

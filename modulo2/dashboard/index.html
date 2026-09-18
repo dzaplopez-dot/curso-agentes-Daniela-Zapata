@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Dashboard Módulo 2 — Taskmaster restaurant-table (200)</title>
+<style>
+body{font-family:system-ui,Arial,sans-serif;max-width:900px;margin:24px auto;padding:0 16px;color:#222}
+.bar{background:#e8e8e8;border-radius:4px;margin:4px 0;height:22px;position:relative}
+.fill{background:#2f6fed;height:100%;border-radius:4px}
+.lbl{font-size:13px;margin-top:10px}
+table{border-collapse:collapse;width:100%;font-size:14px}
+td,th{border:1px solid #ccc;padding:6px 8px;text-align:left}
+small{color:#666}
+</style>
+</head>
+<body>
+<h1>Dashboard — Ruta A Taskmaster (muestra 200, seed 7)</h1>
+<p><small>Fuente: modulo2/datos/procesado/datos.csv · Universo 1.198 (restaurant-table-1/2) · Original intacto self-dialogs.json</small></p>
+
+<h2>P2 · Estado de la reserva</h2>
+<div class="lbl">Aceptado 46/200 (23%)</div><div class="bar"><div class="fill" style="width:23%"></div></div>
+<div class="lbl">Rechazado 127/200 (63.5%)</div><div class="bar"><div class="fill" style="width:63.5%"></div></div>
+<div class="lbl">Pendiente 27/200 (13.5%)</div><div class="bar"><div class="fill" style="width:13.5%"></div></div>
+
+<h2>P1 · Grupo y cobertura</h2>
+<table>
+<tr><th>Métrica</th><th>Valor</th></tr>
+<tr><td>2 personas</td><td>65/200 (32.5%)</td></tr>
+<tr><td>4 personas</td><td>50/200 (25%)</td></tr>
+<tr><td>3 personas</td><td>21/200 (10.5%)</td></tr>
+<tr><td>Restaurante identificado</td><td>190/200</td></tr>
+<tr><td>Zona identificada</td><td>131/200 (69 pendientes)</td></tr>
+<tr><td>Fecha/hora identificada</td><td>196/200</td></tr>
+<tr><td>Seating identificado</td><td>152/200 (48 pendientes)</td></tr>
+</table>
+
+<h2>P3 · Fricción horaria (menciones en fecha_hora)</h2>
+<div class="lbl">7pm — 85</div><div class="bar"><div class="fill" style="width:42.5%"></div></div>
+<div class="lbl">8pm — 59</div><div class="bar"><div class="fill" style="width:29.5%"></div></div>
+<div class="lbl">6pm — 42</div><div class="bar"><div class="fill" style="width:21%"></div></div>
+<div class="lbl">5pm — 16</div><div class="bar"><div class="fill" style="width:8%"></div></div>
+<p>Patrón ante rechazo: ofrecer alternativa ±30–60 min o cambio de seating. Ej: dlg-4697818d (6:30/7:30 en vez de 7:00), dlg-153bb3f7 (sin outdoor ni 8PM).</p>
+
+<h2>Reconciliación</h2>
+<p>200 filas en datos.csv + 167 registros por campo en pendientes.csv explican la muestra de 200. Cada fila conserva conversation_id (muestra.csv).</p>
+</body>
+</html>

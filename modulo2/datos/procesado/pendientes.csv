@@ -1,0 +1,168 @@
+conversation_id,campo,motivo
+dlg-4697818d-5ec8-430a-9e51-c644ca3b5ae9,seating,sin anotación explícita
+dlg-b1c2cd7f-3595-411d-8f2e-ae2715d8e69c,zona,sin anotación explícita
+dlg-b1c2cd7f-3595-411d-8f2e-ae2715d8e69c,estado,sin reservation.accept ni reject
+dlg-153bb3f7-1832-482f-bebf-426e89fcb7d6,zona,sin anotación explícita
+dlg-29f91ff7-6e62-40fd-a6c1-f9add279498b,seating,sin anotación explícita
+dlg-a4484e9b-65f5-4850-8c8e-561bb0a32a7f,seating,sin anotación explícita
+dlg-ff90869d-ada4-49d0-909f-ae1e79d76b68,seating,sin anotación explícita
+dlg-ff90869d-ada4-49d0-909f-ae1e79d76b68,estado,sin reservation.accept ni reject
+dlg-e090ec75-9451-4afd-afd0-d4fcf71658af,seating,sin anotación explícita
+dlg-10f51578-c769-4dcb-9a67-d5eab42df02f,estado,sin reservation.accept ni reject
+dlg-26ac7844-07da-4b1b-af66-cde95505765d,restaurante,sin anotación explícita
+dlg-26ac7844-07da-4b1b-af66-cde95505765d,estado,sin reservation.accept ni reject
+dlg-c08e27ea-ae7c-4596-a447-ebe9ecc7974b,zona,sin anotación explícita
+dlg-1a4097f1-a475-4eeb-b25a-fc1690502984,estado,sin reservation.accept ni reject
+dlg-36f92380-b7c4-43bc-aa52-a05c4badaff1,seating,sin anotación explícita
+dlg-36f92380-b7c4-43bc-aa52-a05c4badaff1,estado,sin reservation.accept ni reject
+dlg-679a7d6a-12ca-4d2b-903c-81c72e0a6d9a,zona,sin anotación explícita
+dlg-b3277094-950f-4569-a178-4e3b1397d589,estado,sin reservation.accept ni reject
+dlg-15d4c474-41c3-41cb-8376-e1b32e68e335,seating,sin anotación explícita
+dlg-15d4c474-41c3-41cb-8376-e1b32e68e335,estado,sin reservation.accept ni reject
+dlg-6677f5f7-05cc-4469-b0b3-ea1d6064bdbe,seating,sin anotación explícita
+dlg-bd1e4268-7e42-4cb3-9562-38f99fc68efb,personas,sin anotación explícita
+dlg-4156330a-4540-49ea-8263-94935e4ca15a,zona,sin anotación explícita
+dlg-f18035c1-d86d-4e1f-a0f2-b00526de73c2,zona,sin anotación explícita
+dlg-342048d7-1ee1-4d01-b38a-19457a4ecdf8,zona,sin anotación explícita
+dlg-fbc73af6-bc14-4fc2-9224-3eee2250380b,zona,sin anotación explícita
+dlg-8bab9c8f-fb5e-4eae-ab37-535beeac33a9,seating,sin anotación explícita
+dlg-f8856ffa-19d8-4de3-91a9-6229143168ff,zona,sin anotación explícita
+dlg-52560baf-e57a-4584-9978-290d1c151597,restaurante,sin anotación explícita
+dlg-52560baf-e57a-4584-9978-290d1c151597,zona,sin anotación explícita
+dlg-54ccc520-5049-4651-8cf0-b6fb50a8d732,zona,sin anotación explícita
+dlg-54ccc520-5049-4651-8cf0-b6fb50a8d732,seating,sin anotación explícita
+dlg-a7b98394-8d76-4a93-8113-0070b106187c,zona,sin anotación explícita
+dlg-a7b98394-8d76-4a93-8113-0070b106187c,seating,sin anotación explícita
+dlg-2baace00-4cc4-44f2-be7b-9640127438c6,zona,sin anotación explícita
+dlg-f9f3f22a-4841-4964-8507-740b764cf5f9,zona,sin anotación explícita
+dlg-1ab17b1f-9495-4e21-a286-e2884def112e,estado,sin reservation.accept ni reject
+dlg-cbffc8ed-967d-4971-b816-4434b5f346fa,seating,sin anotación explícita
+dlg-cbffc8ed-967d-4971-b816-4434b5f346fa,estado,sin reservation.accept ni reject
+dlg-7122814a-0ef5-44f0-b561-4f5741273804,estado,sin reservation.accept ni reject
+dlg-522957de-5d8c-4b5e-8be6-970d45249dbd,estado,sin reservation.accept ni reject
+dlg-701c51d5-7b5e-46f9-8ec8-e6d83d833ff9,zona,sin anotación explícita
+dlg-701c51d5-7b5e-46f9-8ec8-e6d83d833ff9,estado,sin reservation.accept ni reject
+dlg-246b9027-c0c8-4c54-98b4-51122d154c6f,zona,sin anotación explícita
+dlg-fcb0eaa6-b4e4-4f06-8697-5738c2045eea,personas,sin anotación explícita
+dlg-fcb0eaa6-b4e4-4f06-8697-5738c2045eea,seating,sin anotación explícita
+dlg-fcb0eaa6-b4e4-4f06-8697-5738c2045eea,estado,sin reservation.accept ni reject
+dlg-86c53295-c655-4706-9adf-5aff75f01f5c,personas,sin anotación explícita
+dlg-86c53295-c655-4706-9adf-5aff75f01f5c,seating,sin anotación explícita
+dlg-eb105e50-1731-405f-a84a-c9fab340ef3c,zona,sin anotación explícita
+dlg-9ac8ca25-972c-44a4-a5bf-0ccbc820798f,restaurante,sin anotación explícita
+dlg-9ac8ca25-972c-44a4-a5bf-0ccbc820798f,seating,sin anotación explícita
+dlg-9ac8ca25-972c-44a4-a5bf-0ccbc820798f,estado,sin reservation.accept ni reject
+dlg-82c95f79-a100-4259-8cff-42a13ff7e3b2,zona,sin anotación explícita
+dlg-210e230b-de16-45e8-a1f9-8577732c8ba1,restaurante,sin anotación explícita
+dlg-210e230b-de16-45e8-a1f9-8577732c8ba1,zona,sin anotación explícita
+dlg-4cf76b20-1ee7-474b-9b76-8655f61134bd,zona,sin anotación explícita
+dlg-4cf76b20-1ee7-474b-9b76-8655f61134bd,seating,sin anotación explícita
+dlg-99858c19-68aa-410c-b120-b16134ea5c61,zona,sin anotación explícita
+dlg-99858c19-68aa-410c-b120-b16134ea5c61,seating,sin anotación explícita
+dlg-99858c19-68aa-410c-b120-b16134ea5c61,estado,sin reservation.accept ni reject
+dlg-471699c1-27d9-4bc5-b50a-1523a1e90273,seating,sin anotación explícita
+dlg-dab0b16b-c1a8-42a9-ab01-e64cff1a87df,seating,sin anotación explícita
+dlg-be2ca972-e8b3-4c97-ae8b-6a149fea9af0,zona,sin anotación explícita
+dlg-f7f7e72e-4618-4184-81d4-6d71951406be,zona,sin anotación explícita
+dlg-f7f7e72e-4618-4184-81d4-6d71951406be,seating,sin anotación explícita
+dlg-fc57cedd-438c-4922-944c-808bbceaed84,seating,sin anotación explícita
+dlg-8db9569e-190c-45d1-bea6-eece3536542e,restaurante,sin anotación explícita
+dlg-8db9569e-190c-45d1-bea6-eece3536542e,zona,sin anotación explícita
+dlg-9c3e3047-6e9b-445c-acf9-db8e76cada61,seating,sin anotación explícita
+dlg-dd6e8cc2-8ee0-432f-9e6c-d54b782b7935,zona,sin anotación explícita
+dlg-dd6e8cc2-8ee0-432f-9e6c-d54b782b7935,seating,sin anotación explícita
+dlg-fe579ab0-2ade-44de-bfb7-116098473232,zona,sin anotación explícita
+dlg-cdb4e29d-a4be-47b7-b88c-698a961f4014,zona,sin anotación explícita
+dlg-1febaef7-9070-4954-af3b-b8f1a8a0b614,zona,sin anotación explícita
+dlg-29f3955a-b6c7-4b05-a4c7-52258ba69554,zona,sin anotación explícita
+dlg-7c1eeb69-ee30-4920-aadb-1334e875cc23,zona,sin anotación explícita
+dlg-7c1eeb69-ee30-4920-aadb-1334e875cc23,seating,sin anotación explícita
+dlg-1df7fc9b-69df-4abb-984d-0d3656f5d59c,seating,sin anotación explícita
+dlg-1b16077f-87d0-4843-87a2-7722578f5771,seating,sin anotación explícita
+dlg-c92da4f0-14ed-4b97-986c-2dd81808760d,zona,sin anotación explícita
+dlg-81a9bcdf-1e8d-445a-a7d4-b4c1a46b546d,seating,sin anotación explícita
+dlg-9b759f3e-5fb4-46f0-9c88-9d14e0c23465,zona,sin anotación explícita
+dlg-0c6174f5-9016-4c39-b77e-439df21e608a,zona,sin anotación explícita
+dlg-dc82c067-57ab-482a-a65f-6c56f13e19a7,seating,sin anotación explícita
+dlg-1a2a05c0-c916-49ec-a843-753c28a55765,zona,sin anotación explícita
+dlg-6551f802-6fc2-4a4a-8b8d-f7bf7c3aefc6,restaurante,sin anotación explícita
+dlg-6551f802-6fc2-4a4a-8b8d-f7bf7c3aefc6,zona,sin anotación explícita
+dlg-82b1f8d7-ae02-49f4-b616-1b89d85b67b5,restaurante,sin anotación explícita
+dlg-82b1f8d7-ae02-49f4-b616-1b89d85b67b5,zona,sin anotación explícita
+dlg-82b1f8d7-ae02-49f4-b616-1b89d85b67b5,fecha_hora,sin anotación explícita
+dlg-82b1f8d7-ae02-49f4-b616-1b89d85b67b5,personas,sin anotación explícita
+dlg-82b1f8d7-ae02-49f4-b616-1b89d85b67b5,seating,sin anotación explícita
+dlg-82b1f8d7-ae02-49f4-b616-1b89d85b67b5,estado,sin reservation.accept ni reject
+dlg-390c9e33-8524-4c61-81b9-e78a512c7553,zona,sin anotación explícita
+dlg-390c9e33-8524-4c61-81b9-e78a512c7553,estado,sin reservation.accept ni reject
+dlg-7121d9d3-98f1-4649-ac5e-7ce8732bd302,zona,sin anotación explícita
+dlg-7121d9d3-98f1-4649-ac5e-7ce8732bd302,seating,sin anotación explícita
+dlg-b3ef851c-557c-46da-b924-71636e34f677,restaurante,sin anotación explícita
+dlg-b3ef851c-557c-46da-b924-71636e34f677,zona,sin anotación explícita
+dlg-b3ef851c-557c-46da-b924-71636e34f677,fecha_hora,sin anotación explícita
+dlg-b3ef851c-557c-46da-b924-71636e34f677,personas,sin anotación explícita
+dlg-b3ef851c-557c-46da-b924-71636e34f677,seating,sin anotación explícita
+dlg-b3ef851c-557c-46da-b924-71636e34f677,estado,sin reservation.accept ni reject
+dlg-4d9d8a2b-4e6d-4923-b8a5-bc8fd4037286,zona,sin anotación explícita
+dlg-7f32699c-fa68-4fa0-9309-4d065f695833,seating,sin anotación explícita
+dlg-3d4daf17-fdac-4a1b-959b-371d62811d74,personas,sin anotación explícita
+dlg-3d4daf17-fdac-4a1b-959b-371d62811d74,seating,sin anotación explícita
+dlg-3d4daf17-fdac-4a1b-959b-371d62811d74,estado,sin reservation.accept ni reject
+dlg-c28faa9f-14d3-4bcf-a6f6-55b9c068be94,seating,sin anotación explícita
+dlg-f4e1da6a-deb7-4a57-82d2-6b82ffcef88d,zona,sin anotación explícita
+dlg-f4e1da6a-deb7-4a57-82d2-6b82ffcef88d,fecha_hora,sin anotación explícita
+dlg-f4e1da6a-deb7-4a57-82d2-6b82ffcef88d,seating,sin anotación explícita
+dlg-7f32f698-391c-4c78-8abe-51aa0deab3be,zona,sin anotación explícita
+dlg-9f90283a-1186-42c7-a616-b9169b1ae7b9,personas,sin anotación explícita
+dlg-6ae6610e-e804-4261-8564-bbc6ee6f2aa3,zona,sin anotación explícita
+dlg-6b2cddcb-5155-422c-8025-b255e89af03b,zona,sin anotación explícita
+dlg-6b2cddcb-5155-422c-8025-b255e89af03b,seating,sin anotación explícita
+dlg-6b825a39-1c7b-4452-b468-39335a7c9ee5,zona,sin anotación explícita
+dlg-06210079-42cd-4fd7-8636-06f261272854,seating,sin anotación explícita
+dlg-52a588d5-0930-41ab-b393-ee4218cbbd5c,zona,sin anotación explícita
+dlg-7816130d-6037-43c7-9045-b92556bc3f4c,estado,sin reservation.accept ni reject
+dlg-81047039-23db-4360-b4ac-deead2821a38,seating,sin anotación explícita
+dlg-fa74a999-f59c-42d0-8daa-e2e3c804c809,estado,sin reservation.accept ni reject
+dlg-8f8b42a0-b2bc-49cc-89b2-e98f2c8d6c9c,zona,sin anotación explícita
+dlg-cdcd1bc2-f457-406f-888f-d4e049b5ead0,seating,sin anotación explícita
+dlg-f850d507-3c3f-47bb-8acc-a325b810bb50,zona,sin anotación explícita
+dlg-f850d507-3c3f-47bb-8acc-a325b810bb50,seating,sin anotación explícita
+dlg-b0b5a5b2-b221-48f2-b7b4-1a93cc801728,zona,sin anotación explícita
+dlg-b40433fe-946d-40b2-9541-b704dc28f832,personas,sin anotación explícita
+dlg-b498d9b3-16fc-40e6-b8b4-5869bfa80eb6,zona,sin anotación explícita
+dlg-2d88ac06-b845-4a6a-a9ca-423ca40f09c9,zona,sin anotación explícita
+dlg-d7064019-66ad-4065-a641-10239a307458,zona,sin anotación explícita
+dlg-b4e2ea3c-2b4b-4331-9e0e-5ec9ba44f24e,seating,sin anotación explícita
+dlg-561ccd4e-3d32-4c30-bc95-61015865b467,seating,sin anotación explícita
+dlg-1f4dbb29-88ae-4b1b-a6ad-16e69102417f,zona,sin anotación explícita
+dlg-5fb55678-96fd-4617-b62e-00646378ae94,zona,sin anotación explícita
+dlg-4c9a0e5f-8da3-4298-aec6-261ef193d072,seating,sin anotación explícita
+dlg-1786c786-b59c-46c8-a776-3e6722a3b9f6,zona,sin anotación explícita
+dlg-2d3414c1-eb2a-44de-8dc5-3b42b0a5a84e,zona,sin anotación explícita
+dlg-fa7a56c7-5287-4351-9a43-5ed8b6122ccf,zona,sin anotación explícita
+dlg-fa7a56c7-5287-4351-9a43-5ed8b6122ccf,estado,sin reservation.accept ni reject
+dlg-efaaefa3-6da4-46b9-a677-cb92cdffa4cc,zona,sin anotación explícita
+dlg-a2238e55-c8a2-4bd8-a82b-1109e3d548df,estado,sin reservation.accept ni reject
+dlg-0d06065d-d6b9-476e-86ac-dce69d0119b7,zona,sin anotación explícita
+dlg-209856e2-3ec2-464c-bbc5-f6013d138ebb,seating,sin anotación explícita
+dlg-5f4790c1-4885-40b7-811e-41f9fc3b36de,zona,sin anotación explícita
+dlg-a9a0209a-2a5c-4a28-9c0f-44f77e4c2993,estado,sin reservation.accept ni reject
+dlg-4495846e-6164-44c3-9028-531ad157c669,zona,sin anotación explícita
+dlg-32e6eb55-e8a1-4c13-be9b-382eaadc758e,zona,sin anotación explícita
+dlg-32e6eb55-e8a1-4c13-be9b-382eaadc758e,seating,sin anotación explícita
+dlg-d9f9858b-f8d9-48ed-9741-e0f64e0a5fd4,zona,sin anotación explícita
+dlg-d660a900-5c09-4e65-84ea-de3bf968903c,zona,sin anotación explícita
+dlg-8cd2e250-0ada-4b0b-ba58-786518dfc864,zona,sin anotación explícita
+dlg-99e984e1-d4ac-4e9f-a0e5-064bc9379c4f,seating,sin anotación explícita
+dlg-d601e9c1-f9b4-4778-ae20-29f5ab6edd72,zona,sin anotación explícita
+dlg-4b45d6da-3b25-4d9c-8f5c-08fdea6cb10e,zona,sin anotación explícita
+dlg-0c96d51f-e16f-4a11-88e0-85a9ac6e6df5,seating,sin anotación explícita
+dlg-ec7955a7-caad-48cc-9048-3dd447e93a50,estado,sin reservation.accept ni reject
+dlg-436e0acc-4141-4214-a32b-8ea604e52e2e,restaurante,sin anotación explícita
+dlg-436e0acc-4141-4214-a32b-8ea604e52e2e,zona,sin anotación explícita
+dlg-436e0acc-4141-4214-a32b-8ea604e52e2e,fecha_hora,sin anotación explícita
+dlg-436e0acc-4141-4214-a32b-8ea604e52e2e,personas,sin anotación explícita
+dlg-436e0acc-4141-4214-a32b-8ea604e52e2e,seating,sin anotación explícita
+dlg-436e0acc-4141-4214-a32b-8ea604e52e2e,estado,sin reservation.accept ni reject
+dlg-0d533976-cbdb-4ca5-9616-15efd67d86bb,restaurante,sin anotación explícita
+dlg-e5d4351d-d23a-46e3-b74d-d4ddfa072af1,zona,sin anotación explícita
