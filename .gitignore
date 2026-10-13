@@ -1,0 +1,13 @@
+# Entornos y caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# Base reconstruible (se regenera con scripts/importar_excel.py)
+*.db
+*.temporal.db
+
+# Sistema
+.DS_Store
