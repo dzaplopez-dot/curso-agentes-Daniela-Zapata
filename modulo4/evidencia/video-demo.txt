@@ -1,0 +1,19 @@
+Video demostración — Módulo 4 Ferricentro
+==========================================
+
+Estado: PENDIENTE DE GRABAR (requerido para "Terminado").
+
+Enlace (pegar aquí cuando esté, Loom o equivalente):
+URL: PENDIENTE — verificar acceso público para revisores.
+
+Ubicación archivo alternativo (si entregas mp4 local):
+evidencia/video-demo.mp4 — PENDIENTE
+
+Guion (4 bloques, <5 min):
+1. Contexto (30s): proveedor Ferricentro https://ferricentro.com/, problema: pasar catálogo visible a propuesta revisable POS sin escribir en ERP.
+2. Demostración (2 min): cargar descomprimida en Chrome (y Edge), Analizar, conteo 20, previa 10, avisos, descargar catalogo_proveedor.csv.
+3. Resultados (1.5 min): abrir los 3 CSV. catalogo 20 filas (17 verificado/3 requiere_revision), actualizacion_pos.csv vacía (sin tabla SKU validada), excepciones.csv 25 filas. Explicar regla precio: especial o último $, e inventario vacío ≠ cero.
+4. Límite (1 min): página no compatible (sin CSV) o fila sin sku. Aclarar: no escribe en ERP/POS, requiere revisión humana.
+
+Antes de grabar: cerrar pestañas privadas, no mostrar claves/cookies/datos personales.
+Verificar: README y este txt incluyen enlace accesible.

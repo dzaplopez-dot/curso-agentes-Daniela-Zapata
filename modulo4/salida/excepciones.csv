@@ -1,0 +1,26 @@
+sku_proveedor,nombre,fuente_url,tipo,campo_afectado,detalle
+,Cerradura Digital Manija,https://ferricentro.com/cerradura-digital-manija-ff-0000051313,faltante,sku_proveedor,Sin código visible en tarjeta; no inventar. Estado requiere_revision.
+,Cerrad Auxiliar Alta Seg Inox Llave-Mariposa,https://ferricentro.com/cerrad-auxiliar-alta-seg-inox-llave-mariposa-ff-0000037938,faltante,sku_proveedor,Sin código visible en tarjeta; no inventar. Estado requiere_revision.
+,Barra Antipánico Sencilla Push De 1 Punto,https://ferricentro.com/barra-antipanico-sencilla-push-de-1-punto-ff-0000049750,faltante,sku_proveedor,Sin código visible en tarjeta; no inventar. Estado requiere_revision.
+10953/YMF,Cerradura Biometrica Digital,https://ferricentro.com/cerradura-biometrica-digital-ff-0000037772,sin_equivalencia,sku_pos,Sin tabla de equivalencias validada; no asociar al POS. Propuesta vacía.
+HC-221,Cerradura Principal Inteligente Hc-221,https://ferricentro.com/cerradura-principal-inteligente-hc-221-ff-0000049089,sin_equivalencia,sku_pos,Sin tabla de equivalencias validada; no asociar al POS. Propuesta vacía.
+0010868/Y,Cerradura Biométrica Digital,https://ferricentro.com/cerradura-biometrica-digital-ff-0000044759,sin_equivalencia,sku_pos,Sin tabla de equivalencias validada; no asociar al POS. Propuesta vacía.
+,Cerradura Digital Manija,https://ferricentro.com/cerradura-digital-manija-ff-0000051313,sin_equivalencia,sku_pos,Sin SKU proveedor ni tabla validada; no asociar al POS.
+HC-121,Cerrojo Digital Ajustable,https://ferricentro.com/cerrojo-digital-ajustable-ff-0000047681,sin_equivalencia,sku_pos,Sin tabla de equivalencias validada; no asociar al POS. Propuesta vacía.
+00035010,Cerradura Antipánico Sencilla Tampa+Manija Eiffel,https://ferricentro.com/cerradura-antipanico-sencilla-tampa-manija-eiffel-ff-0000029983,sin_equivalencia,sku_pos,Sin tabla de equivalencias validada; no asociar al POS. Propuesta vacía.
+0009032/Y,Manija Digital Yrl221-Nr-619,https://ferricentro.com/manija-digital-yrl221-nr-619-ff-0000043335,sin_equivalencia,sku_pos,Sin tabla de equivalencias validada; no asociar al POS. Propuesta vacía.
+9146,Cerrojo Assure Sl 256 Yrd,https://ferricentro.com/cerrojo-assure-sl-256-yrd-ff-0000043336,sin_equivalencia,sku_pos,Sin tabla de equivalencias validada; no asociar al POS. Propuesta vacía.
+0009027/0,Mirilla Digital Con Cámara Tarjeta Mini Sd 512Mb P,https://ferricentro.com/mirilla-digital-con-camara-tarjeta-mini-sd-512mb-p-ff-0000030602,sin_equivalencia,sku_pos,Sin tabla de equivalencias validada; no asociar al POS. Propuesta vacía.
+6FE695N,Cerradura Electrónica Touch,https://ferricentro.com/cerradura-electronica-touch-ff-0000043989,sin_equivalencia,sku_pos,Sin tabla de equivalencias validada; no asociar al POS. Propuesta vacía.
+60BE469CE,Cerrojo Electrónico Be 469 Nx Cen 622 Negro Mate,https://ferricentro.com/cerrojo-electronico-be-469-nx-cen-622-negro-mate-ff-0000043998,sin_equivalencia,sku_pos,Sin tabla de equivalencias validada; no asociar al POS. Propuesta vacía.
+CE-439/LY,Cerradura Digital Entrada Principal,https://ferricentro.com/cerradura-digital-entrada-principal-ff-0000051142,sin_equivalencia,sku_pos,Sin tabla de equivalencias validada; no asociar al POS. Propuesta vacía.
+,Cerrad Auxiliar Alta Seg Inox Llave-Mariposa,https://ferricentro.com/cerrad-auxiliar-alta-seg-inox-llave-mariposa-ff-0000037938,sin_equivalencia,sku_pos,Sin SKU proveedor ni tabla validada; no asociar al POS.
+35101,Caja Fuerte Laptop,https://ferricentro.com/caja-fuerte-laptop-ff-0000043315,sin_equivalencia,sku_pos,Sin tabla de equivalencias validada; no asociar al POS. Propuesta vacía.
+R201BNELM,Cerradura Auxiliar Alta Seguridad / Negro Llave Mariposa,https://ferricentro.com/cerradura-auxiliar-alta-seguridad-negro-llave-mariposa-ff-0000043935,sin_equivalencia,sku_pos,Sin tabla de equivalencias validada; no asociar al POS. Propuesta vacía.
+,Barra Antipánico Sencilla Push De 1 Punto,https://ferricentro.com/barra-antipanico-sencilla-push-de-1-punto-ff-0000049750,sin_equivalencia,sku_pos,Sin SKU proveedor ni tabla validada; no asociar al POS.
+CE-407/LY,Control De Acceso,https://ferricentro.com/control-de-acceso-ff-0000051147,sin_equivalencia,sku_pos,Sin tabla de equivalencias validada; no asociar al POS. Propuesta vacía.
+R200B66AI,Cerradura Entrada Principal Anti Taladro / Palanca,https://ferricentro.com/cerradura-entrada-principal-anti-taladro-palanca-ff-0000042130,sin_equivalencia,sku_pos,Sin tabla de equivalencias validada; no asociar al POS. Propuesta vacía.
+R201BNELL,Cerradura Auxiliar Alta Seguridad / Negro Llave-Llave,https://ferricentro.com/cerradura-auxiliar-alta-seguridad-negro-llave-llave-ff-0000043936,sin_equivalencia,sku_pos,Sin tabla de equivalencias validada; no asociar al POS. Propuesta vacía.
+E3096-809,Cerradura Entrada Principal Con Manija 809 Negra,https://ferricentro.com/cerradura-entrada-principal-con-manija-809-negra-ff-0000050573,sin_equivalencia,sku_pos,Sin tabla de equivalencias validada; no asociar al POS. Propuesta vacía.
+,,,aviso_general,inventario,Tarjeta no publica unidades ("Añadir al carrito" no prueba stock). Columna inventario vacía en las 20 filas; vacío no es cero.
+,,,aviso_general,precio_cop,Precio publicado del proveedor no es precio de venta. Sin regla de impuestos/margen aprobada la propuesta queda vacía.

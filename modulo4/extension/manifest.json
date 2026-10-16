@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Ferricentro ERP — extracción local",
+  "version": "0.2.0",
+  "description": "Extrae catálogo visible de Ferricentro a CSV revisable solo tras clic explícito. Local, sin red externa.",
+  "minimum_chrome_version": "88",
+  "permissions": ["activeTab", "scripting", "downloads"],
+  "host_permissions": ["https://ferricentro.com/*"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Ferricentro ERP local"
+  }
+}

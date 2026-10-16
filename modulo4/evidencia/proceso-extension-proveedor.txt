@@ -1,0 +1,88 @@
+================================================================================
+PROCESO EXTENSION PROVEEDOR — FERRICENTRO → ERP/POS (observación solo lectura)
+No es código ejecutable. Base para construir la extensión Manifest V3.
+================================================================================
+
+Fecha observación: 2026-09-26
+Zona horaria: America/Bogota (UTC-5)
+URLs observadas: https://ferricentro.com/
+                 https://ferricentro.com/productos/...
+Herramienta: navegador (solo lectura, sin login)
+Conteo: 20 productos extraídos (productos_erp.csv base)
+
+--------------------------------------------------------------------------------
+1. OBJETIVO Y ALCANCE
+--------------------------------------------------------------------------------
+Documentar pasos, campos y selectores observados para que la extensión lea el
+catálogo visible y prepare propuesta revisable. No importa automáticamente al ERP.
+
+Dentro: abrir home/categoría, scroll a "Explora nuestro portafolio", leer tarjetas.
+Fuera: login, compra, carrito, formularios, evadir bloqueos, escribir en ERP,
+publicar en stores, inventar stock o campos.
+
+--------------------------------------------------------------------------------
+2. PASOS ORDENADOS
+--------------------------------------------------------------------------------
+PASO 1 — Apertura: abrir https://ferricentro.com/ . Resultado: home Magento con
+portafolio. Parada: si pide login/CAPTCHA o no carga, detenerse.
+
+PASO 2 — Scroll: bajar a "Explora nuestro portafolio". Resultado: tarjetas con
+imagen + línea "MARCA CÓDIGO" + título enlazado + precios + [Ver Producto].
+Sin scroll hay cero resultados (render perezoso).
+
+PASO 3 — Lectura tarjeta (por cada <a> slug):
+  - nombre: title del <a> o primera línea texto (200 chars max, sin "Ver Producto", sin "{"/.product-image).
+  - línea MARCA CÓDIGO: regex /(^|\n)\s*([A-ZÁÉÍÓÚÑ]{2,}(?:\s+[A-ZÁÉÍÓÚÑ]+)?)\s+([A-Z0-9][A-Z0-9\/\-.]{3,})\s*(?:\n|$)/ ej. "YALE 10953/YMF", "MHA HC-221", "TESA R201BAI L". Fallback /\b([A-Z]{2,})\s+(\d{4,}[A-Z0-9\/\-]*)/. Si marca=VER o sku sin dígitos → vacío.
+  - precio: /precio especial\s*\$\s*([\d\.\,]+)/i → dígitos. Si no, último $\s*([\d\.\,]+) del bloque.
+  - url: href limpio sin ?# ni / final. Deduplicar.
+  - inventario: no observado → vacío siempre.
+  - activo: true si publicado y visible.
+  - estado: verificado si sku+precio, si no requiere_revision.
+
+PASO 4 — Validación: 20 filas, 17 verificado, 3 sin sku (Cerradura Digital Manija,
+Cerrad Auxiliar..., Barra Antipánico...), 0 sin precio. Inventario vacío en 20/20.
+Sin tabla SKU_POS → 20/20 a excepciones sin_equivalencia.
+
+--------------------------------------------------------------------------------
+3. INVENTARIO DOM / SELECTORES (solo lo observado, sin inventar clases)
+--------------------------------------------------------------------------------
+- Entrada: a[href] (todos los enlaces, filtrados por función esSlugProducto).
+- Discriminador: ^https:\/\/ferricentro\.com\/([a-z0-9\-]+)\/?(?:[?#]|$) con slug largo >=8, contiene "-ff-", excluye productos|combos|ofertas|precios-fugaces|customer|checkout|catalogsearch|contacto|experto*|esperto*.
+  Ej. positivos: /cerradura-biometrica-digital-ff-0000037772, /caja-fuerte-laptop-ff-0000043315
+  Ej. negativos: /productos/cerraduras, /ofertas, /combos
+- Contenedor: a.closest('li') o parentElement (sin asumir clase Magento).
+- Texto: innerText (excluye <style>/<script>), fallback textContent. Normalizar espacios.
+- Alternativa si cambia Magento: buscar por texto "Precio especial $" + enlace con title largo al mismo slug.
+- Conteos: anclas totales ~cientos, slugs únicos 20 en muestra. Favoritos/carrito no usados como contador.
+
+--------------------------------------------------------------------------------
+4. CAMPOS QUE EXTRAE LA EXTENSIÓN
+--------------------------------------------------------------------------------
+proveedor= Ferricentro constante | sku_proveedor (MARCA CÓDIGO) | nombre (title/a)
+marca (mayúsculas línea) | precio_cop (especial o último $) | inventario '' |
+activo 'true' | fuente_url (slug) | fecha_consulta Bogota | estado_revision |
+sku_pos '' | disponibilidad ''.
+
+--------------------------------------------------------------------------------
+5. ERRORES Y PARADAS
+--------------------------------------------------------------------------------
+- UNSUPPORTED_URL: no es ferricentro.com/* → mensaje + sin CSV.
+- ZERO_RESULTS: 0 slugs → pedir scroll a portafolio y reintentar.
+- NO_DOM: no se pudo leer DOM → error visible.
+- Sin sku/precio → fila con vacío + requiere_revision + aviso, no inventar.
+- Selectores cambiados (Magento actualiza clases): el discriminador por slug sigue;
+  si no hay "-ff-" o li cambia, cae a ZERO_RESULTS y se detiene (no exporta basura).
+- CSV: UTF-8 con BOM, coma, RFC-4180, escape comas/comillas.
+
+--------------------------------------------------------------------------------
+6. VERIFICADO / AMBIGUO / PENDIENTE
+--------------------------------------------------------------------------------
+Verificado: slug -ff-, línea MARCA CÓDIGO, precio especial $, título enlazado,
+deduplicación por URL, 20 filas muestra.
+Ambiguo: marca puede ser tienda si línea atípica; precio sin "especial" se toma
+último $ (documentado). Título truncado a 200 chars.
+Pendiente: stock/unidades (no publicado), IVA incluido/excluido (no indicado en
+tarjeta), equivalencia SKU_POS (requiere tabla validada del negocio), ficha
+individual (no usada en esta extracción de listado).
+
+FIN.

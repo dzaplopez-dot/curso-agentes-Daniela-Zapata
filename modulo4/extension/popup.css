@@ -1,0 +1,22 @@
+:root { color-scheme: light; }
+* { box-sizing: border-box; }
+body { width: 480px; margin: 0; font: 13px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; color: #1c1c1c; }
+main { padding: 12px 14px 16px; }
+h1 { font-size: 15px; margin: 0 0 6px; }
+h2 { font-size: 13px; margin: 12px 0 6px; }
+.ayuda, .nota { color: #555; }
+.ayuda code { font-size: 12px; }
+.fila { display: flex; gap: 8px; margin: 8px 0; flex-wrap: wrap; }
+button { padding: 8px 12px; border: 1px solid #333; border-radius: 6px; background: #fff; cursor: pointer; }
+button:disabled { opacity: .45; cursor: not-allowed; }
+button:not(:disabled):hover { background: #f2f2f2; }
+#btn-analizar:not(:disabled) { background: #ffe600; border-color: #8a7a00; font-weight: 600; }
+#estado { font-weight: 600; }
+#estado.error { color: #a00000; }
+#estado.ok { color: #0a5c00; }
+#avisos { margin: 0; padding-left: 18px; color: #5a3c00; }
+#avisos li { margin-bottom: 4px; }
+.tabla-wrap { overflow: auto; border: 1px solid #ccc; border-radius: 6px; }
+table { border-collapse: collapse; width: 100%; font-size: 12px; }
+th, td { border-bottom: 1px solid #e3e3e3; padding: 4px 6px; text-align: left; vertical-align: top; }
+thead th { background: #f6f6f6; position: sticky; top: 0; }

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ferricentro ERP local</title>
+<link rel="stylesheet" href="popup.css">
+</head>
+<body>
+<main>
+  <h1>Ferricentro → CSV ERP revisable</h1>
+  <p class="ayuda">Abre <code>ferricentro.com</code> (home o <code>/productos/…</code>) y pulsa <strong>Analizar página actual</strong>. Nada se ejecuta hasta ese clic.</p>
+  <div class="fila">
+    <button id="btn-analizar" type="button">Analizar página actual</button>
+    <button id="btn-descargar" type="button" disabled>Descargar catálogo</button>
+    <button id="btn-excepciones" type="button" disabled>Descargar excepciones</button>
+  </div>
+  <p id="estado" role="status" aria-live="polite">En espera.</p>
+  <p id="conteo" hidden></p>
+  <section id="avisos-wrap" hidden>
+    <h2>Avisos</h2>
+    <ul id="avisos"></ul>
+  </section>
+  <section id="previa-wrap" hidden>
+    <h2>Vista previa (primeros 10)</h2>
+    <div class="tabla-wrap">
+      <table>
+        <thead><tr><th>#</th><th>SKU proveedor</th><th>Nombre</th><th>Precio COP</th><th>Estado</th></tr></thead>
+        <tbody id="previa"></tbody>
+      </table>
+    </div>
+  </section>
+  <p class="nota">Contrato M4 (12 col): proveedor,sku_proveedor,nombre,marca,precio_cop,inventario,activo,fuente_url,fecha_consulta,estado_revision,sku_pos,disponibilidad. Vacío ≠ cero. La propuesta POS (actualizacion_pos.csv) se arma solo con tabla validada, no aquí.</p>
+</main>
+<script src="popup.js"></script>
+</body>
+</html>
