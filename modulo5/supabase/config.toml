@@ -1,0 +1,6 @@
+# Supabase local: solo empaquetado remoto (--use-api), sin base local ni Docker.
+project_id = "spa-manos-pies"
+
+[functions.spa-telegram]
+enabled = true
+verify_jwt = false

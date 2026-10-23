@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "@supabase/supabase-js": "npm:@supabase/supabase-js@2.48.0"
+  },
+  "tasks": {
+    "check": "deno check index.ts handler.ts repository.ts telegram.ts",
+    "test": "deno test --allow-env handler_test.ts telegram_test.ts"
+  }
+}
