@@ -1,0 +1,33 @@
+=== GUION PARA VIDEO DEMO ===
+
+[INTRO - 0:00-0:10]
+Bienvenido. Este es mi agente personal construido con Hermes para el Módulo 6 del curso de la Fundación Cognitus.
+
+[PARTE 1 - 0:10-0:25]
+El agente busca noticias sobre tecnología e inteligencia artificial cada mañana y envía un resumen personalizado a Telegram.
+
+[PARTE 2 - 0:25-0:45]
+Temas elegidos:
+1. IA generativa y modelos de lenguaje
+2. Innovaciones tecnológicas
+
+[PARTE 3 - 0:45-1:15]
+Conexión con Telegram:
+- Bot: @Hermes_daniela_bot
+- User ID autorizado: 8877255183
+- Token configurado en ~/.hermes/.env
+
+[PARTE 4 - 1:15-1:45]
+Ejecución del script de noticias en vivo...
+
+[PARTE 5 - 1:45-2:15]
+Resultado en Telegram: El briefing llega correctamente.
+
+[PARTE 6 - 2:15-2:45]
+Configuración de cron:
+- Noticias: 8:00 AM (diario)
+- Correos: 9:00 AM (diario)
+- Zona horaria: America/Argentina/Buenos_Aires
+
+[PARTE 7 - 2:45-3:00]
+Gracias. El repositorio y el código están disponibles para revisión.

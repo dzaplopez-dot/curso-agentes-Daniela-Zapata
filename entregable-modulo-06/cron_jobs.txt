@@ -1,0 +1,3 @@
+=== CRON JOBS ===
+0 8 * * * - Briefing diario de noticias tech e IA
+0 9 * * * - Resumen diario de correos importantes

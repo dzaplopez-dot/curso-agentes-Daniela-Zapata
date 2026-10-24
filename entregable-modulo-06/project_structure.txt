@@ -1,0 +1,19 @@
+=== ESTRUCTURA DEL PROYECTO ===
+total 128
+drwxr-xr-x@ 17 carcila  staff   544 Oct 23 22:45 .
+drwxr-xr-x@ 12 carcila  staff   384 Oct 23 21:30 ..
+-rw-r--r--@  1 carcila  staff  2645 Oct 23 21:58 README.md
+-rw-r--r--@  1 carcila  staff   277 Oct 23 22:45 config_output.txt
+-rw-r--r--@  1 carcila  staff   304 Oct 23 22:45 demo_news_output.txt
+-rw-r--r--@  1 carcila  staff     0 Oct 23 22:44 demo_output.txt
+-rw-r--r--@  1 carcila  staff  2945 Oct 23 21:39 email_summary.py
+-rw-r--r--@  1 carcila  staff  5076 Oct 23 22:20 email_summary_gmail_api.py
+-rw-r--r--@  1 carcila  staff  3465 Oct 23 22:44 grab_video.sh
+-rw-r--r--@  1 carcila  staff  2437 Oct 23 21:39 news_briefing.py
+-rw-r--r--@  1 carcila  staff  2645 Oct 23 22:16 news_briefing_v2.py
+-rw-r--r--@  1 carcila  staff  3550 Oct 23 22:40 news_final.py
+-rw-r--r--@  1 carcila  staff  4235 Oct 23 22:38 news_simple.py
+-rw-r--r--@  1 carcila  staff    32 Oct 23 22:45 project_structure.txt
+-rw-r--r--@  1 carcila  staff  2175 Oct 23 22:35 record_video.sh
+-rw-r--r--@  1 carcila  staff   240 Oct 23 22:34 run_news_briefing.sh
+-rw-r--r--@  1 carcila  staff   964 Oct 23 22:40 video_script.txt

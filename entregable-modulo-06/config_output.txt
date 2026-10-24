@@ -1,0 +1,8 @@
+=== CONFIGURACIÓN DEL SISTEMA ===
+Modelo: poolside/laguna-s-2.1:free (gratuito)
+Proveedor: Nous Portal
+Telegram Bot: @Hermes_daniela_bot
+Telegram User ID: 8877255183
+Himalaya: v2.2.1
+Cron: 0 8 * * * (noticias), 0 9 * * * (correos)
+Zona horaria: America/Argentina/Buenos_Aires
