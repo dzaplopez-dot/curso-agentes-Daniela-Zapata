@@ -199,17 +199,3 @@ entregable-modulo-10/
 
 Fuente del catálogo: `Listado de EFY terminado para imprimir 2024.pdf` (escaneado, 6 páginas).
 Se convirtió a texto con render a 300 dpi y lectura visual, y se normalizó a `datos/catalogo.csv`.
-
----
-
-## 8. Guion para el Demo Day (5 minutos)
-
-1. **Problema (30 s):** el cliente recuerda marcas, no códigos; el asesor transcribe todo.
-2. **Demo (3 min):** "busco algo como sauvage para hombre" → dos opciones → `3859` → borrador →
-   `SÍ` → stock 9. Luego "quiero baccarat rouge" para mostrar que no inventa.
-3. **Panel (1 min):** pedidos, stock bajo y familias más pedidas.
-4. **Aprendizaje y siguiente mejora (30 s):** el catálogo no trae stock ni precios; el
-   siguiente paso es conectar inventario real y habilitar otras presentaciones.
-
-Respaldo si falla la red: `python demo.py --reiniciar` reproduce la conversación completa sin
-Telegram y deja el panel regenerado.
