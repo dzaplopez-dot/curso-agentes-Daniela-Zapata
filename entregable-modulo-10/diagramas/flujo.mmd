@@ -1,0 +1,22 @@
+flowchart TD
+    A["Cliente escribe en Telegram"] --> B{"¿El mensaje trae un código<br/>de 3 o 4 dígitos?"}
+    B -->|"Sí"| F["Mostrar ficha del perfume<br/>y crear borrador"]
+    B -->|"No"| C["Interpretar preferencias<br/>inspirado · casa · familia · género"]
+    C --> D{"¿Hay algún filtro?"}
+    D -->|"No"| D1["Preguntar género y familia"] --> C
+    D -->|"Sí"| E["Buscar en el catálogo real<br/>(80 referencias, 10 uds c/u)"]
+    E --> G{"Resultados"}
+    G -->|"0 y hay inspirado"| G1["Buscar misma familia olfativa"]
+    G1 --> G2{"¿Hay alternativas?"}
+    G2 -->|"Sí"| H["Listar opciones reales"]
+    G2 -->|"No"| G3["Decir que no se maneja<br/>No inventar referencias"]
+    G -->|"1"| F
+    G -->|"varias"| H
+    H --> I["Cliente responde con el código"] --> F
+    F --> J{"Confirma? SÍ / NO"}
+    J -->|"NO"| K["Cancelar borrador<br/>sin descontar stock"]
+    J -->|"SÍ"| L["Descontar stock y guardar pedido<br/>(idempotente por mensaje)"]
+    L --> M["Resumen con total y stock restante"]
+    L --> P["Panel: pedidos, stock bajo, familias"]
+    style G3 fill:#fde2e2,stroke:#a33
+    style L fill:#e2f0dd,stroke:#2f5c22

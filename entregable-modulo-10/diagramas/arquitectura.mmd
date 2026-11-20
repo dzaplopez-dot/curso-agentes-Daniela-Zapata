@@ -1,0 +1,42 @@
+flowchart LR
+    subgraph Canal
+        C["Cliente<br/>Telegram"]
+    end
+
+    subgraph Agente["Agente EFY (Python)"]
+        N["NLU<br/>reglas + LLM opcional"]
+        O["Orquestador<br/>máquina de estados"]
+    end
+
+    subgraph Herramientas["Herramientas (function calling)"]
+        T1["buscar_perfume"]
+        T2["ver_stock"]
+        T3["crear_borrador"]
+        T4["confirmar_pedido"]
+    end
+
+    subgraph Datos
+        DB[("Catálogo y pedidos<br/>SQLite local / Supabase")]
+    end
+
+    subgraph Salida
+        P["Panel HTML<br/>pedidos · stock · familias"]
+    end
+
+    LLM["LLM externo<br/>solo interpreta, no decide precios"]
+
+    C -->|"texto + msg_id"| N
+    N -->|"filtros JSON"| O
+    LLM -.->|"extracción de preferencias"| N
+    O --> T1
+    O --> T2
+    O --> T3
+    O --> T4
+    T1 --> DB
+    T2 --> DB
+    T3 --> DB
+    T4 --> DB
+    DB --> P
+    O -->|"respuesta en lenguaje natural"| C
+    T3 -->|"si el msg_id existe:<br/>no duplica"| DB
+    T4 -->|"descuenta stock<br/>en una transacción"| DB

@@ -1,0 +1,17 @@
+id,caso_tipo,entrada,resultado_esperado,resultado_observado,estado,evidencia
+T01,catalogo,cargan las 80 referencias del PDF,80 registros con codigo unico y 10 unidades c/u,80 registros · 80 codigos unicos · 10 uds · 100 ml · $40.000,PASS,test_catalogo_carga_las_80_referencias
+T02,caso normal,"busco algo como sauvage para hombre",2 opciones reales con precio y stock,3859 SAUVAGE y 2069 SAUVAGE ELIXIR POUR · 100 ml · $40.000 · stock 10,PASS,test_caso_normal / conversacion_demo.txt
+T03,caso normal,"3859 y luego SI",borrador y confirmacion con descuento de stock,Pedido #1 confirmado · stock restante 9,PASS,test_caso_normal / conversacion_demo.txt
+T04,dato ambiguo,"quiero chance",preguntar cual referencia antes de decidir,lista 893 CHANCE y 3647 CHANCE EAU TENDRE y pide codigo,PASS,test_dato_ambiguo_pregunta_en_vez_de_adivinar
+T05,sin coincidencia,"quiero baccarat rouge",no inventar referencias,"No manejamos inspirado en BACCARAT ROUGE; no crea pedido",PASS,test_sin_coincidencia_no_inventa
+T06,dato faltante,"algo rico",pedir genero y familia,"responde pidiendo genero y familia; no crea pedido",PASS,test_dato_faltante_pide_contexto
+T07,mensaje repetido,"dos unidades de 440 enviado dos veces con el mismo msg_id",un solo pedido,"segundo mensaje responde No lo duplique; 1 pedido de 2 unidades",PASS,test_mensaje_repetido_no_duplica
+T08,falla de herramienta,"busqueda con el catalogo caido",informar el estado real sin exito falso,"No pude consultar el catalogo ... no registre ningun pedido; 0 pedidos",PASS,test_falla_de_herramienta_no_anuncia_exito
+T09,doble confirmacion,"SI despues de confirmar",no descontar dos veces,"responde que ya estaba confirmado; stock sigue en 9",PASS,test_doble_confirmacion_no_descuenta_dos_veces
+T10,cancelacion,"3859 y luego NO",no descontar stock,pedido cancelado · stock 10,PASS,test_cancelar_no_descuenta_stock
+T11,categoria limitada,"unisex floral",avisar que no hay unisex y ofrecer cercanas,"No tenemos referencias unisex para esa busqueda; 6 alternativas florales",PASS,test_unisex_limitado_ofrece_alternativas
+T12,busqueda por casa,"algo de christian dior",filtrar por casa,3859 · 2069 · 718,PASS,test_busqueda_por_casa
+T13,normalizacion,"Aromatica / AROMATICA / Fougere-Fougeere",tratar variantes como iguales,las tres variantes normalizan al mismo valor,PASS,test_normalizacion_de_familias
+T14,backend,"sentencia SQL con ? en backend postgres",traducir a %s,sentencia traducida a %s correctamente,PASS,test_sentencias_se_traducen_para_postgres
+T15,backend,"esquema con backend postgres",tipos propios de Postgres,BIGINT IDENTITY · TIMESTAMPTZ · UNIQUE(chat_id msg_id),PASS,test_esquema_postgres_usa_identidad_y_timestamptz
+T16,backend,"esquema con backend sqlite",tipos propios de SQLite,AUTOINCREMENT y sin TIMESTAMPTZ,PASS,test_esquema_sqlite_usa_autoincrement

@@ -1,0 +1,94 @@
+Conversación de demostración · bot EFY
+============================================================
+
+[consulta] Cliente: hola
+EFY: Hola, soy el asesor de EFY. Te ayudo a encontrar un perfume y a dejar el pedido listo.
+
+Puedes pedirme cosas como:
+• "algo como Sauvage para hombre"
+• "un perfume floral para mujer"
+• "amaderado, dos unidades"
+• o escribe un código, por ejemplo 3859
+
+Todas las referencias son de 100 ml y cuestan $40.000.
+Te muestro opciones reales del catálogo y solo confirmo cuando me digas SÍ.
+
+[consulta] Cliente: busco algo como sauvage para hombre
+EFY: Encontré 2 referencias:
+
+• 3859 · SAUVAGE (CHRISTIAN DIOR)
+  Aromática Fougére · 100 ml · $40.000 · stock 10
+• 2069 · SAUVAGE ELIXIR POUR (CHRISTIAN DIOR)
+  Aromática Fougere · 100 ml · $40.000 · stock 10
+
+Todas son de 100 ml y cuestan $40.000. Responde con el código de la que quieras y armo el borrador del pedido.
+
+[eleccion] Cliente: 3859
+EFY: Borrador #1
+1 × 3859 SAUVAGE (CHRISTIAN DIOR) · 100 ml
+Total: $40.000
+
+Responde SÍ para confirmar o NO para cancelar. Todavía no se descontó stock.
+
+[confirmacion] Cliente: si
+EFY: Pedido #1 confirmado.
+1 × 3859 SAUVAGE · $40.000
+Stock restante de 3859: 9 unidades.
+Puedes recogerlo en el local o pedir envío.
+
+[sin coincidencia] Cliente: quiero baccarat rouge
+EFY: No manejamos inspirado en BACCARAT ROUGE y no lo voy a inventar. ¿Qué familia te gusta? Trabajo con floral, amaderada, oriental, aromática, cítrica, chipre o ambarada.
+
+[dato faltante] Cliente: algo rico
+EFY: Para recomendarte necesito un poco más de contexto. ¿Es para hombre, mujer o unisex? ¿Y qué familia te gusta: floral, frutal, amaderada, oriental, aromática o cítrica?
+
+Ejemplo: "amaderado para hombre".
+
+[consulta] Cliente: floral para mujer
+EFY: Encontré 6 referencias:
+
+• 2206 · 212 HEROES FOREVER YOUNG (CAROLINA HERRERA)
+  Floral Frutal · 100 ml · $40.000 · stock 10
+• 3603 · 212 VIP ROSE (CAROLINA HERRERA)
+  Floral Frutal · 100 ml · $40.000 · stock 10
+• 612 · 360° PURPLE (PERRY ELLIS)
+  Floral Maderosa · 100 ml · $40.000 · stock 10
+• 3863 · AGUA DEL SOL (ESCADA)
+  Floral Frutal · 100 ml · $40.000 · stock 10
+• 2398 · CAN CAN (PARIS HILTON)
+  Floral Frutal · 100 ml · $40.000 · stock 10
+• 3647 · CHANCE EAU TENDRE (CHANEL)
+  Floral Frutal · 100 ml · $40.000 · stock 10
+
+Todas son de 100 ml y cuestan $40.000. Responde con el código de la que quieras y armo el borrador del pedido.
+
+[eleccion] Cliente: 390
+EFY: Borrador #2
+1 × 390 GOLD RUSH (PARIS HILTON) · 100 ml
+Total: $40.000
+
+Responde SÍ para confirmar o NO para cancelar. Todavía no se descontó stock.
+
+[confirmacion] Cliente: si
+EFY: Pedido #2 confirmado.
+1 × 390 GOLD RUSH · $40.000
+Stock restante de 390: 9 unidades.
+Puedes recogerlo en el local o pedir envío.
+
+[categoria limitada] Cliente: unisex floral
+EFY: No tenemos referencias unisex para esa búsqueda. Estas son las más cercanas:
+
+• 2206 · 212 HEROES FOREVER YOUNG (CAROLINA HERRERA)
+  Floral Frutal · 100 ml · $40.000 · stock 10
+• 3603 · 212 VIP ROSE (CAROLINA HERRERA)
+  Floral Frutal · 100 ml · $40.000 · stock 10
+• 612 · 360° PURPLE (PERRY ELLIS)
+  Floral Maderosa · 100 ml · $40.000 · stock 10
+• 3863 · AGUA DEL SOL (ESCADA)
+  Floral Frutal · 100 ml · $40.000 · stock 10
+• 2398 · CAN CAN (PARIS HILTON)
+  Floral Frutal · 100 ml · $40.000 · stock 10
+• 3647 · CHANCE EAU TENDRE (CHANEL)
+  Floral Frutal · 100 ml · $40.000 · stock 10
+
+Todas son de 100 ml y cuestan $40.000. Responde con el código de la que quieras y armo el borrador del pedido.

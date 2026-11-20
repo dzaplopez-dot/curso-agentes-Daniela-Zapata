@@ -1,0 +1,5 @@
+python-telegram-bot>=21.0
+python-dotenv>=1.0
+pytest>=8.0
+# opcional, solo para EFY_BACKEND=postgres (Supabase)
+# psycopg[binary]>=3.1
